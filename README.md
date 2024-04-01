@@ -221,12 +221,29 @@ La causa principal del problema es la falta de opciones confortables, eficientes
 El producto sera empleado mediante una  plataforma web, donde los estudiantes podrán programar sus viajes, conocer los horarios y rutas disponibles, realizar pagos en línea y recibir actualizaciones en tiempo real sobre el estado del servicio. 
 
 
-**Capítulo II: Requirements Elicitation & Analysis**
+# **Capítulo II: Requirements Elicitation & Analysis**
 
 ## 2.1. Competidores.
-   
+
+
+    
+
 
 **2.1.1. Análisis competitivo.**
+
+|Tipo | logo    | Su startup  | Competidor | Competidor         | Competidor |
+|---------|---------|-------------|------------|--------------------|------------|
+|Perfil|Overview||||
+|Perfil|Ventaja competitiva ¿Qué valor ofrece a los clientes? ||||
+|Perfil de Marketing |Mercado objetivo ||||
+|Perfil de Marketing |Estrategias de marketing  ||||
+|Perfil de Producto|Productos & Servicios  ||||
+|Perfil de Producto|Precios & Costos  ||||
+|Perfil de Producto|Canales de distribución (Web y/o Móvil)  ||||
+|Análisis SWOT|Fortalezas  ||||
+|Análisis SWOT|Debilidades ||||
+|Análisis SWOT|Oportunidades ||||
+|Análisis SWOT|Amenazas ||||
 
      
 **2.1.2. Estrategias y tácticas frente a competidores.**
