@@ -184,6 +184,8 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 | descripcion                 | foto |
 | descripcion                 | foto |
 | descripcion                 | foto |
+
+
 1.2. Solution Profile.
 
 ### 1.2.1. Antecedentes y Problemática.
