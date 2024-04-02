@@ -26,24 +26,24 @@
             <th>Codigo</th>
         </tr>
         <tr> 
-            <td>Luis Angel Anampa Lavado</td>
+            <td>Agama Espinoza, Eric Fabrizio</td>
+            <td>U202213358</td>
+        </tr>
+        <tr> 
+            <td>Anampa Lavado, Luis Angel</td>
             <td>U202218664</td>
         </tr>
         <tr> 
-            <td>Gustavo Adolfo Pardo Zapata</td>
-            <td>U202120347</td>
-        </tr>
-        <tr> 
-            <td>Harold Jaime Mayta Lopez</td>
-            <td>U202114851</td>
-        </tr>
-         <tr> 
-            <td>Ely Rivaldo Cortez Flores</td>
+            <td>Cortez Flores, Ely Rivaldo</td>
             <td>U202215313</td>
         </tr>
         <tr> 
-            <td>Eric Fabrizio Agama Espinoza</td>
-            <td>U202213358</td>
+            <td>Mayta Lopez, Harold Jaime</td>
+            <td>U202114851</td>
+        </tr>
+        <tr> 
+            <td>Pardo Zapata, Gustavo Adolfo</td>
+            <td>U202120347</td>
         </tr>
     </table>
 
@@ -75,46 +75,52 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 | | |
 | | |
 
+# Studen Outcome
+
+|Criterio Especifico|Acciones Realizadas|Conclusiones|
+|-------------------|-------------------|------------|
+|Comunica oralmente sus <br>ideas y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto eningeniería.|**Luis Anampa**<br>TB1:<br><br>**Gustavo Pardo**<br>TB1:<br><br>**Harold Mayta**<br>TB1:<br><br>**Ely Cortez**<br>TB1:<br><br>**Eric Agama**<br>TB1:<br>||
+|Comunica en forma escrita ideas <br>y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto en ingeniería.|**Luis Anampa**<br>TB1:<br><br>**Gustavo Pardo**<br>TB1:<br><br>**Harold Mayta**<br>TB1:<br><br>**Ely Cortez**<br>TB1:<br><br>**Eric Agama**<br>TB1:<br>||
 
 # Contenido
 
-1. [Capítulo I: Introducción](#capítulo-i-introducción)
-   1. [Startup Profile](#startup-profile)
-      1. [Descripción de la Startup](#descripción-de-la-startup)
-      2. [Perfiles de integrantes del equipo](#perfiles-de-integrantes-del-equipo)
-   2. [Solution Profile](#solution-profile)
-      1. [Antecedentes y problemática](#antecedentes-y-problemática)
+1. [Capítulo I: Introducción.](#capítulo-i-introducción)
+   1. [Startup Profile.](#startup-profile)
+      1. [Descripción de la Startup.](#descripción-de-la-startup)
+      2. [Perfiles de integrantes del equipo.](#perfiles-de-integrantes-del-equipo)
+   2. [Solution Profile.](#solution-profile)
+      1. [Antecedentes y problemática.](#antecedentes-y-problemática)
       2. [Lean UX Process.](#lean-ux-process)
          1. [Lean UX Problem Statements.](#lean-ux-problem-statements)
          2. [Lean UX Assumptions.](#lean-ux-assumptions)
          3. [Lean UX Hypothesis Statements.](#lean-ux-hypothesis-statements)
          4. [Lean UX Canvas.](#lean-ux-canvas)
-   3. [Segmentos objetivo](#segmentos-objetivo)
-2. [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
-   1. [Competidores](#competidores)
+   3. [Segmentos objetivo.](#segmentos-objetivo)
+2. [Capítulo II: Requirements Elicitation & Analysis.](#capítulo-ii-requirements-elicitation--analysis)
+   1. [Competidores.](#competidores)
       1. [Análisis competitivo.](#análisis-competitivo)
       2. [Estrategias y tácticas frente a competidores.](#estrategias-y-tácticas-frente-a-competidores)
-   2. [Entrevistas](#entrevistas)
+   2. [Entrevistas.](#entrevistas)
       1. [Diseño de entrevistas.](#diseño-de-entrevistas)
       2. [Registro de entrevistas.](#registro-de-entrevistas)
       3. [Análisis de entrevistas.](#análisis-de-entrevistas)
-   3. [Needfinding](#needfinding)
+   3. [Needfinding.](#needfinding)
       1. [User Personas.](#user-personas)
       2. [User Task Matrix.](#user-task-matrix)
       3. [User Journey Mapping.](#user-journey-mapping)
       4. [Empathy Mapping.](#empathy-mapping)
       5. [As-is Scenario Mapping.](#as-is-scenario-mapping)
-   4. [Ubiquitous Language](#ubiquitous-language)
-3. [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
-   1. [To-Be Scenario Mapping](#to-be-scenario-mapping)
-   2. [User Stories](#user-stories)
-   3. [Impact Mapping](#impact-mapping)
-   4. [Product Backlog](#product-backlog)
-4. [Capítulo IV: Product Design](#capítulo-iv-product-design)
-   1. [Style Guidelines](#style-guidelines)
+   4. [Ubiquitous Language.](#ubiquitous-language)
+3. [Capítulo III: Requirements Specification.](#capítulo-iii-requirements-specification)
+   1. [To-Be Scenario Mapping.](#to-be-scenario-mapping)
+   2. [User Stories.](#user-stories)
+   3. [Impact Mapping.](#impact-mapping)
+   4. [Product Backlog.](#product-backlog)
+4. [Capítulo IV: Product Design.](#capítulo-iv-product-design)
+   1. [Style Guidelines.](#style-guidelines)
       1. [General Style Guidelines.](#general-style-guidelines)
       2. [Web Style Guidelines.](#web-style-guidelines)
-   2. [Information Architecture](#information-architecture)
+   2. [Information Architecture.](#information-architecture)
       1. [Organization Systems.](#organization-systems)
       2. [Labeling Systems.](#labeling-systems)
       3. [SEO Tags and Meta Tags.](#seo-tags-and-meta-tags)
@@ -123,12 +129,12 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
    3. [Landing Page UI Design](#landing-page-ui-design)
       1. [Landing Page Wireframe.](#landing-page-wireframe)
       2. [Landing Page Mock-up.](#landing-page-mock-up)
-   4. [Web Applications UX/UI Design](#web-applications-ux-ui-design)
+   4. [Web Applications UX/UI Design.](#web-applications-ux-ui-design)
       1. [Web Applications Wireframes.](#web-applications-wireframes)
       2. [Web Applications Wireflow Diagrams.](#web-applications-wireflow-diagrams)
       3. [Web Applications Mock-ups.](#web-applications-mock-ups)
       4. [Web Applications User Flow Diagrams.](#web-applications-user-flow-diagrams)
-   5. [Web Applications Prototyping](#web-applications-prototyping)
+   5. [Web Applications Prototyping.](#web-applications-prototyping)
    6. [Domain-Driven Software Architecture](#domain-driven-software-architecture)
       1. [Software Architecture Context Diagram.](#software-architecture-context-diagram)
       2. [Software Architecture Container Diagrams.](#software-architecture-container-diagrams)
@@ -136,16 +142,16 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
    7. [Software Object-Oriented Design](#software-object-oriented-design)
       1. [Class Diagrams.](#class-diagrams)
       2. [Class Dictionary.](#class-dictionary)
-   8. [Database Design](#database-design)
+   8. [Database Design.](#database-design)
       1. [Database Diagram.](#database-diagram)
-5. [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
-   1. [Software Configuration Management](#software-configuration-management)
+5. [Capítulo V: Product Implementation, Validation & Deployment.](#capítulo-v-product-implementation-validation--deployment)
+   1. [Software Configuration Management.](#software-configuration-management)
       1. [Software Development Environment Configuration.](#software-development-environment-configuration)
       2. [Source Code Management.](#source-code-management)
       3. [Source Code Style Guide & Conventions.](#source-code-style-guide--conventions)
       4. [Software Deployment Configuration.](#software-deployment-configuration)
-   2. [Landing Page, Services & Applications Implementation](#landing-page-services--applications-implementation)
-      1. [Sprint 1](#sprint-1)
+   2. [Landing Page, Services & Applications Implementation.](#landing-page-services--applications-implementation)
+      1. [Sprint 1.](#sprint-1)
          1. [Sprint Planning 1.](#sprint-planning-1)
          2. [Sprint Backlog 1.](#sprint-backlog-1)
          3. [Development Evidence for Sprint Review.](#development-evidence-for-sprint-review)
