@@ -233,7 +233,7 @@ El producto sera empleado mediante una  plataforma web, donde los estudiantes po
 
 **2.1.1. Análisis competitivo.**
 
-|Tipo | logo    | Su startup  | Competidor | Competidor         | Competidor |
+|Tipo | logo    |  nuestro logo | ![Logo de Markdown](https://i.blogs.es/6e0273/maxresdefault/1366_2000.jpg) |  ![Logo de Markdown](https://splt.io/static/546b781de4b0cb1a83eb2f49/t/58920dd1414fb514625b545d/1485808725404/SPLTLogo.png)     | ![Logo de Markdown](https://w7.pngwing.com/pngs/612/905/png-transparent-logo-zimride-real-time-ridesharing-enterprise-rent-a-car-ithaca-design-text-trademark-logo.png) |
 |---------|---------|-------------|------------|--------------------|------------|
 |Perfil|Overview||||
 |Perfil|Ventaja competitiva ¿Qué valor ofrece a los clientes? ||||
@@ -256,7 +256,118 @@ El producto sera empleado mediante una  plataforma web, donde los estudiantes po
    
 **2.2.1. Diseño de entrevistas.**
 
+**Segmento objetivo #1:** Estudiantes Universitarios que necesiten movilizarse
+
+**User Flow que se evaluarán:**
+
+- Registro e inicio de sesión
+
+- Suscripción a un servicio
+
+- 
+
+- 
+
+### Preguntas principales:
+
+### Preguntas complementarias:
+
 **2.2.2. Registro de entrevistas.**
+
+**Segmento objetivo #1:** Estudiantes Universitarios que necesiten movilizarse
+
+**Entrevistado N°1:** ---------------
+
+**- Sexo:** ------
+
+**- Edad:** ------
+
+**- Ubicación en la que vive:** --------------
+
+**Acerca de la entrevista:**--------------
+
+**- Link:** ------------------
+
+**- Instante en el que inicia:** ----------
+
+**- Duración:** --------
+
+**Resumen:**
+
+Texto
+
+
+
+
+
+
+**Segmento objetivo #2:** Estudiantes Universitarios que necesiten movilizarse
+
+**Entrevistado N°2:** ---------------
+
+**- Sexo:** ------
+
+**- Edad:** ------
+
+**- Ubicación en la que vive:** --------------
+
+**Acerca de la entrevista:**--------------
+
+**- Link:** ------------------
+
+**- Instante en el que inicia:** ----------
+
+**- Duración:** --------
+
+**Resumen:**
+
+Texto
+
+
+
+
+
+
+**Segmento objetivo #3:** Estudiantes Universitarios que necesiten movilizarse
+
+**Entrevistado N°3:** ---------------
+
+**- Sexo:** ------
+
+**- Edad:** ------
+
+**- Ubicación en la que vive:** --------------
+
+**Acerca de la entrevista:**--------------
+
+**- Link:** ------------------
+
+**- Instante en el que inicia:** ----------
+
+**- Duración:** --------
+
+**Resumen:**
+
+Texto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **2.2.3. Análisis de entrevistas.**
 
