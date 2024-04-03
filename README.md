@@ -228,6 +228,15 @@ La causa principal del problema es la falta de opciones confortables, eficientes
 ###### ¿Cómo se utilizará el producto?
 El producto sera empleado mediante una  plataforma web, donde los estudiantes podrán programar sus viajes, conocer los horarios y rutas disponibles, realizar pagos en línea y recibir actualizaciones en tiempo real sobre el estado del servicio. 
 
+###### ¿Cómo lograremos desarrollar la correcta gestión del proceso de carpooling entre estudiantes?
+Después de que el estudiante inicia sesión en el sistema y elige su universidad de destino, el sistema presenta los conductores disponibles que viajan por la misma ruta. Si el estudiante está conforme con la hora estimada de llegada y la calificación del conductor, puede reservar un viaje y proceder con el pago. Una vez que el conductor complete todos los asientos, debe indicar que no hay más asientos disponibles. Después de llegar a destino, los usuarios tienen la opción de calificar al conductor.
+
+##### How much (Cuánto)
+###### ¿Cuál es la magnitud del problema?
+En Lima, se enfrentan numerosos problemas socioculturales, como la delincuencia y el tráfico, que pueden ser especialmente perjudiciales para los estudiantes que suelen llevar consigo sus teléfonos celulares y computadoras portátiles. Además, está comprobado que el tráfico puede generar ansiedad, ya que los estudiantes corren el riesgo de llegar tarde a clases o, peor aún, a exámenes, debido a las frecuentes paradas de los autobuses en cada tramo. Por esta razón, se está buscando una solución para reducir la posibilidad de robos y la incomodidad durante el viaje. La propuesta es ofrecer asientos garantizados durante todo el trayecto a un costo similar al del transporte público, pero con mayor comodidad y eficiencia en cuanto al tiempo de viaje. 
+
+###### Quienes seran los beneficiados por el servicio?
+Los estudiantes universitarios que deseen una alternativa que sea eficiente, cómoda y económica, así como aquellos que busquen generar ingresos o reducir sus gastos en combustible durante su viaje hacia la universidad.
 
 # **Capítulo II: Requirements Elicitation & Analysis**
 
