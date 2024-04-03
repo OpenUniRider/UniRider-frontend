@@ -238,6 +238,10 @@ En Lima, se enfrentan numerosos problemas socioculturales, como la delincuencia 
 ###### Quienes seran los beneficiados por el servicio?
 Los estudiantes universitarios que deseen una alternativa que sea eficiente, cómoda y económica, así como aquellos que busquen generar ingresos o reducir sus gastos en combustible durante su viaje hacia la universidad.
 
+### 1.2.2. Lean UX Process
+#### 1.2.2.1. Lean UX Problem Statements.
+
+
 # **Capítulo II: Requirements Elicitation & Analysis**
 
 ## 2.1. Competidores.
