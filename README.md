@@ -405,6 +405,59 @@ Texto
 
 **2.3.3. User Journey Mapping**
 
+# **Capítulo III: Requirements Specification**
+## 3.1. To-Be Scenario Mapping.
+En esta sección se resume la información recopilada, se realiza dos tablas con la situación a mejorar del segmento objetivo, analizando que pasos que se realizaran y como se siente.
+
+*Segmento Alumnos*
+
+/tabla/
+
+*Segmento Conductor*
+
+/tabla/
+
+## 3.2. User Stories.
+Los user stories ayudan a explicar mejor las diversas funciones que tiene la aplicación,según las necesidades del usuario y la prioridad de cada función desde la perspectiva del usuario. Se requiere el propósito de uso de las personas.
+
+|Epic/Story ID|Titulo|Descripción|Criterios de aceptación|Relacionado con (Epic ID)|
+|-------------|------|-----------|-----------------------|-------------------------|
+|ES01|Registro<br>de<br>usuario|**Como**<br>proveedor<br>**Quiero**<br>poder crear<br>mi usuario<br>**Para**<br>exponer mí<br>servicio|Epic Story|ES01|
+|ES02||
+|ES03||
+|ES04||
+|ES05||
+|ES06||
+|US01||
+|US02||
+|US03||
+|US04||
+|US05||
+|US06||
+|US07||
+|US08||
+|US09||
+|US10|||
+|US11||
+|US12|*
+|US13|*
+|US14|*
+|US15|*
+|TS01|*
+|TS02|*
+|TS03|
+|TS04|
+|TS05|
+
+## 3.3. Impact Mapping.
+En esta sección se muestra un grafico que incluye los business goal del starup así como tiene un impacto en nuesras user person.
+
+Alumno
+
+/impact maping alumno/
+
+Conductor
+
 **2.3.4. Empathy Mapping**
 
 **2.3.5. As-is Scenario Mapping**
