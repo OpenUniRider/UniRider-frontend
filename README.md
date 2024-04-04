@@ -310,25 +310,139 @@ Ya que se identificó que uno de los problemas es la posibilidad de que durante 
    
 ### [**2.2.1. Diseño de entrevistas.**](#diseño-de-entrevistas)
 
+Con el propósito de conocer la realidad de nuestros usuarios, buscamos obtener su punto de vista con respecto a su conocimiento e interés en relación con el servicio de carpooling que ofrecemos en UniRider. Queremos comprender mejor cómo perciben nuestra aplicacion, qué características valoran más y cómo podemos mejorar su experiencia general.
+
+
 **Segmento objetivo #1:** Estudiantes Universitarios que necesiten movilizarse
-
-**User Flow que se evaluarán:**
-
-- Registro e inicio de sesión
-
-- Suscripción a un servicio
-
-- 
-
-- 
 
 ### Preguntas principales:
 
+- ¿Crees necesario que la aplicación incorpore un sistema de verificación de identidad con un documento oficial al registrar una cuenta? ¿Por qué?
+
+- ¿Cómo te sentirías acerca de tener la capacidad de compartir tus experiencias y calificar a los conductores después de cada viaje?
+
+- ¿Qué información te gustaría poder acceder en tu historial de viajes para sentirte más seguro/a al utilizar nuestra plataforma?
+
+- Comúnmente , ¿Cuál es tu preferencia al momento de realizar pagos: utilizar una billetera virtual o pagar en efectivo directamente al conductor?
+
+- ¿Consideras la posibilidad de comunicarte directamente con el conductor a través de un chat? ¿Por qué crees que esta función sería beneficiosa para los usuarios?
+
+- ¿Qué tipo de notificaciones consideras útiles para mantenerte informado/a sobre nuevos viajes disponibles o cambios en los planes de viaje?
+
+- ¿Crees que sería útil para los usuarios poder visualizar el perfil del conductor? ¿Qué información crees que debería incluirse en dicho perfil?
+
+- ¿Te sentirías más seguro utilizando nuestra aplicación si ofreciéramos un soporte técnico rápido y eficiente para resolver cualquier problema que pueda surgir?
+
+
+
 ### Preguntas complementarias:
+
+
+- ¿Qué factores consideras al seleccionar un viaje, aparte de la ubicación y la hora de salida?
+
+- ¿Crees que sería beneficioso establecer colaboraciones con universidades u otras instituciones educativas para promover el uso de nuestro servicio de carpooling entre los estudiantes?
+
+
+
+
+**Segmento objetivo #2:** Conductores
+
+### Preguntas principales:
+
+- ¿Crees necesario que la aplicación incorpore un sistema de verificación de identidad con un documento oficial al registrar una cuenta? ¿Por qué?
+
+- ¿Cuánto tiempo llevas conduciendo y cuál es tu experiencia en viajes largos o diarios?
+
+- ¿Crees que sería importante para los conductores recibir notificaciones en caso de cancelar un asiento reservado por un pasajero? ¿Por qué crees que esta función podría mejorar la comunicación y la experiencia del usuario?
+
+- ¿Qué tan flexible es tu horario para conducir y cuántos días a la semana estarías dispuesto/a a compartir viajes?
+
+- ¿Qué expectativas tienes en cuanto a la compensación económica por compartir tus viajes como conductor en UniRider?
+
+- ¿Consideras útil la posibilidad de establecer la ruta de viaje antes del inicio del viaje? ¿Por qué crees que esta función podría ser beneficiosa para la planificación de tus viajes?
+
+
+### Preguntas complementarias:
+
+- ¿Cómo planeas equilibrar tus responsabilidades académicas con tus compromisos como conductor en UniRider?
+
+- ¿Has tenido experiencia previa compartiendo viajes con otros estudiantes?
+
+- ¿Estarías dispuesto/a a promover activamente UniRider entre otros estudiantes en el campus para aumentar la participación en la plataforma?
+
 
 ### [**2.2.2. Registro de entrevistas.**](#registro-de-entrevistas)
 
 **Segmento objetivo #1:** Estudiantes Universitarios que necesiten movilizarse
+
+**Entrevistado N°1:** Dayana Rojas Sosa
+
+- **Sexo:** Femenino
+
+- **Edad:** 19 años
+
+- **Ubicación en la que vive:** Ate, Lima
+
+**Acerca de la entrevista:**
+
+- **Link:** ------------------
+
+- **Instante en el que inicia:** ----------
+
+- **Duración:** --------
+
+**Resumen:**
+
+Texto
+
+
+
+**Entrevistado N°2:** ---------------
+
+- **Sexo:** ------
+
+- **Edad:** ------
+
+- **Ubicación en la que vive:** --------------
+
+**Acerca de la entrevista:**
+
+- **Link:** ------------------
+
+- **Instante en el que inicia:** ----------
+
+- **Duración:** --------
+
+**Resumen:**
+
+Texto
+
+
+
+
+**Entrevistado N°3:** ---------------
+
+- **Sexo:** ------
+
+- **Edad:** ------
+
+- **Ubicación en la que vive:** --------------
+
+**Acerca de la entrevista:**
+
+- **Link:** ------------------
+
+- **Instante en el que inicia:** ----------
+
+- **Duración:** --------
+
+**Resumen:**
+
+Texto
+
+
+
+**Segmento objetivo #2:** Estudiantes conductores
 
 **Entrevistado N°1:** ---------------
 
@@ -338,7 +452,7 @@ Ya que se identificó que uno de los problemas es la posibilidad de que durante 
 
 **- Ubicación en la que vive:** --------------
 
-**Acerca de la entrevista:**--------------
+**Acerca de la entrevista:**
 
 **- Link:** ------------------
 
@@ -350,12 +464,6 @@ Ya que se identificó que uno de los problemas es la posibilidad de que durante 
 
 Texto
 
-
-
-
-
-
-**Segmento objetivo #2:** Estudiantes Universitarios que necesiten movilizarse
 
 **Entrevistado N°2:** ---------------
 
@@ -365,7 +473,7 @@ Texto
 
 **- Ubicación en la que vive:** --------------
 
-**Acerca de la entrevista:**--------------
+**Acerca de la entrevista:**
 
 **- Link:** ------------------
 
@@ -377,12 +485,6 @@ Texto
 
 Texto
 
-
-
-
-
-
-**Segmento objetivo #3:** Estudiantes Universitarios que necesiten movilizarse
 
 **Entrevistado N°3:** ---------------
 
@@ -392,7 +494,7 @@ Texto
 
 **- Ubicación en la que vive:** --------------
 
-**Acerca de la entrevista:**--------------
+**Acerca de la entrevista:**
 
 **- Link:** ------------------
 
@@ -404,28 +506,77 @@ Texto
 
 Texto
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### [**2.2.3. Análisis de entrevistas.**](#análisis-de-entrevistas)
 
+De acuerdo con las entrevistas y resúmenes recopilados, hemos realizado el siguiente análisis de entrevistas, obteniendo así resultados concretos. 
+
+#### Segmento objetivo #1: Estudiantes Universitarios que necesiten movilizarse
+
+Hallazgos:
+
+- 
+  
+- 
+  
+- 
+  
+- 
+  
+- 
+  
+Hallazgos:
+
+#### Segmento objetivo #2: 
+
+- 
+  
+- 
+  
+- 
+  
+- 
+  
+- 
+  
+Conclusiones:
+
+### Análisis por medio de herramientas estadísticas:
+
+- Segmento objetivo1: 
+
+- Segmento objetivo 2: 
+
+
+
+
 ## [**2.3. Needfinding.**](#needfinding)
+
+Presentamos las siguientes necesidades principales que hemos analizado en base a nuestros usuarios:
+
+*Segmento #1:* Estudiantes Universitarios que necesiten movilizarse
+
+- Una información más detallada del conductor en el historial de viaje.
+  
+- 
+  
+- 
+  
+- 
+  
+- 
+  
+*Segmento #2:* 
+
+- 
+  
+- 
+  
+- 
+  
+- 
+  
+- 
+
 
 ### [**2.3.1. User Personas.**](#user-personas)
 
