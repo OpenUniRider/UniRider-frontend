@@ -276,7 +276,93 @@ Ya que se identificó que uno de los problemas es la posibilidad de que durante 
 
 #### [**1.2.2.2. Lean UX Assumptions.**](#lean-ux-assumptions)
 
+###### Business Assumptions:
+1. **Creemos que nuestros usuarios necesitan** un método más eficaz para desplazarse hacia sus instituciones educativas universitarias, asegurando tanto tranquilidad como comodidad durante el trayecto.
+
+2. **Estas necesidades se pueden satisfacer** con el desarrollo de una plataforma enfocada unicamente al transporte universitario enfocado a la comidad, eficiencia y asequible para el uso diario
+
+3. **Nuestros clientes iniciales serán** unicamente los estudiantes universtarios que requieran el servicios y los que cuenten con un automovil y quieran ganar un adicional durante su recorrido a la universidad
+
+4. **El valor más importante que un cliente quiere de nuestros servicios es** la equidad entre un servicio accequible, la garantia de comodidad durante el viaje y la facilidad para solicitar el proceso.
+
+5. **El cliente también va a obtener** Beneficios adicionales, como la acumulación de puntos para poder canjear diferentes premios e incluso viajes.
+
+6. **Vamos a obtener la mayoría de los clientes mediante**  publicidad en línea, campañas de promoción en comunidades universitarios y acudiendo a charlas programadas dentro de las universidades.
+
+7. **Vamos a obtener ingresos mediante** el modelo de suscripción con diferentes niveles para los 2 tipos de usuarios (conductor,pasajero).
+
+8. **Nuestra competencia en el mercado serán** en un principio los diferentes aplicativos como lo son Uber,Indrive, etc asi como los taxis particulares.
+
+9. **Vamos a tener ventaja frente a nuestra competencia debido a** que nuestro público objetivo estará exclusivamente compuesto por estudiantes universitarios. Nuestra aplicación garantizará que durante el viaje solo participen personas que sean estudiantes, todos con el mismo punto de llegada. Como un valor agregado, ofreceremos la oportunidad para que los estudiantes puedan hacer networking durante el trayecto.
+
+10. **El mayor riesgo del servicio es** que nuestra aplicación no logre generar un impacto significativo o no capte la atención necesaria para que los usuarios decidan probar nuestro sistema.
+
+11. **Lo resolveremos realizando** estrategias de marketing adecuadas y promocionando nuestro servicio en charlas universitarias. Nos centraremos en generar confianza y seguridad durante los viajes, lo cual será fundamental para atraer a los usuarios. Además, planeamos regalar créditos dentro de la aplicación a las cuentas creadas mediante un código QR de invitación distribuido durante estas charlas universitarias.
+
+###### User Assumptions:
+
+
+###### ¿Quién es el usuario?
+Los usuarios son, en primera parte, estudiante universitario que requiere un método eficaz y cómodo para desplazarse hacia su institución educativa unicamente en el departamento de Lima,  si la plataforma tiene éxito en este primer sector, se plantea extender esta implementación en los departamentos del interior del pais.
+
+###### ¿Qué problemas tiene nuestro producto? ¿Resolver?
+
+Un problema que enfrenta actualmente la aplicación es el modelo de ingresos basado en suscripciones y niveles de servicio ya que debemos garatizar que sea lo suficientemente atractivo como para generar ingresos sostenibles y cubrir los costos operativos del servicio.
+
+###### ¿Qué características son importantes?
+ 
+ Las características principales de la plataforma incluyen su exclusividad para estudiantes universitarios, una interfaz fácil de usar, medidas sólidas de seguridad, comodidad en los viajes y ventajas extras como la acumulación de puntos y la posibilidad de establecer contactos.
+
+###### ¿Dónde encaja nuestro producto en su trabajo o vida?
+
+El producto encaja en la mejora de la calidad de viaje durante el trayecto de ida y vualta hacia las universidades, permitiendo  confortabilidad y reducción de gastos de viajes.
+
+###### ¿Cuándo y cómo es nuestro producto? ¿Usado?
+
+Nuestro producto está diseñado para ser utilizado principalmente durante el período académico, cuando los estudiantes universitarios necesitan desplazarse hacia y desde sus instituciones educativas. 
+
+###### ¿Cómo debe verse nuestro producto y cómo debe comportarse?
+
+El producto debe presentar un diseño intuitivo y amigable, con características que pueden ser adaptadas según las preferencias de cada usuario. Además, debe proporcionar información concisa sobre los conductores, vehículos y costos, manteniendo la seguridad como una prioridad con medidas sólidas. 
+
+######  Feature Assumptions:
+
+**Creemos que** la aplicación deberia tener la interfaz inicial con las opciónes principales una vez dentro de la app
+para agilizar  el proceso de uso.
+
+**Creemos que** el sistema debería considerar medidas de riesgo ante una situación de emergencia, es decir, añadir una función que reporte automáticamente la situación a las autoridades.
+
+**Creemos que** el sistema deberia 
+
+**Creemos que** el sistema debería integrarse con sistemas de pago móvil para facilitar el proceso de compartir los costos del viaje entre los usuarios, permitiendo transacciones seguras y sin problemas directamente desde la aplicación.
+
+ **Creemos que** la aplicación debería ofrecer opciones de viaje compartido programado, donde los usuarios puedan planificar y reservar viajes con anticipación.
+
+
+
 #### [**1.2.2.3. Lean UX Hypothesis Statements.**](#lean-ux-hypothesis-statements)
+
+
+ - **Hypothesis Statement 01:**
+   **Creemos que** los estudiantes consideran como primera opción nuestro servicio para el transporte hacia sus respectivas instituciones
+   **Sabremos** que hemos tenido exito
+   **Cuando**  realicemos encuestas a estudiantes y la mayoría indique que prefieren nuestro servicio debido a su confiabilidad, comodidad y costo en comparación con otras opciones de transporte.
+
+**Hypothesis Statement 02:**
+  **Creemos que** al ofrecer descuentos exclusivos a través de nuestra aplicación móvil, aumentaremos la lealtad de los clientes.
+  **Sabremos** que hemos tenido éxito
+  **Cuando** observemos un aumento en la participación de los clientes que utilizan los descuentos ofrecidos a través de la aplicación móvil, así como un aumento general de uso y el uso continuo del usuario.
+
+
+ - **Hypothesis Statement 03:**
+   **Creemos que** debemos priorizar la regulridad del registro, verificando de manera eficaz que la totalidad de nuestros usuarios son estudiantes de alguna institución
+   **Sabremos** que hemos tenido exito
+   **Cuando**  no registremos ningún reporte de algún altercado o durante la regularización de usuarios durante el recorrido.
+
+ - **Hypothesis Statement 04:**
+   **Creemos que**  al implementar un sistema de emparejamiento  basado en la ubicación y los horarios de los estudiantes, aumentaremos la conveniencia y la eficiencia del carpooling universitario.
+   **Sabremos**  que hemos tenido éxito
+   **Cuando**  se demuestre una disminución en el tiempo promedio de espera para encontrar un compañero de viaje 
 
 #### [**1.2.2.4. Lean UX Canvas.**](#lean-ux-canvas)
 
