@@ -200,6 +200,7 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
       - [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
       - [**5.2.1.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
 
+
 # [**Capítulo I: Introducción.**](#capítulo-i-introducción)
 
 ## [**1.1  Startup Profile.**](#startup-profile)
