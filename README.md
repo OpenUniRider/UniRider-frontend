@@ -83,7 +83,7 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 
 # Contenido
 
-- [Contenido](#contenido)
+
 - [**Capítulo I: Introducción.**](#capítulo-i-introducción)
   - [**1.1  Startup Profile.**](#11--startup-profile)
     - [**1.1.1. Descripción del startup.**](#111-descripción-del-startup)
