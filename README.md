@@ -178,7 +178,7 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
    
    **Logotipo de la Startup:**
 
-   ![Logo de Markdown](images/logoStarUpUniRider.jpeg)
+   ![Logo de Markdown](images/logoStarUpUniRider.png)
 
    **Logotipo del servicio**
 
