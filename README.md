@@ -644,6 +644,35 @@ Presentamos las siguientes necesidades principales que hemos analizado en base a
 
 ### [**2.3.2. User Task Matrix.**](#user-task-matrix)
 
+## **Ana Lopez**
+
+| Actividades | Frecuencia | Importancia | 
+|-------------|------------|-------------|
+| Actividades |  |  | 
+| Actividades |  |  | 
+| Actividades |  |  | 
+| Actividades |  |  | 
+| Actividades |  |  | 
+| Actividades |  |  | 
+| Actividades |  |  | 
+| Actividades |  |  | 
+
+
+## **Luis Gomez**
+
+
+| Actividades | Frecuencia | Importancia | 
+|-------------|------------|-------------|
+| Actividades |  |  | 
+| Actividades |  |  | 
+| Actividades |  |  | 
+| Actividades |  |  | 
+| Actividades |  |  | 
+| Actividades |  |  | 
+| Actividades |  |  | 
+| Actividades |  |  | 
+
+
 ### [**2.3.3. User Journey Mapping**](#user-journey-mapping)
 
 ### [**2.3.4. Empathy Mapping**](#empathy-mapping)
