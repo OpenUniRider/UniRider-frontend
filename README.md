@@ -83,10 +83,6 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 
 # Contenido
 
-- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
-- [Project Report Collaboration Insights](#project-report-collaboration-insights)
-  - [TB1](#tb1)
-- [Studen Outcome](#studen-outcome)
 - [Contenido](#contenido)
 - [**Capítulo I: Introducción.**](#capítulo-i-introducción)
   - [**1.1  Startup Profile.**](#11--startup-profile)
