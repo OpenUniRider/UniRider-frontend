@@ -178,11 +178,11 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
    
    **Logotipo de la Startup:**
 
-   ![Logo de Markdown](https://i.ibb.co/QMwj1jw/Whats-App-Image-2024-04-01-at-12-46-55-AM-1.jpg)
+   ![Logo de Markdown](images/logoStarUpUniRider.jpeg)
 
    **Logotipo del servicio**
 
-   ![Logo de Markdown](https://i.ibb.co/7YFfBG7/Whats-App-Image-2024-04-01-at-12-46-55-AM.jpg)
+   ![Logo de Markdown](images/logoUniRider.png)
 
 ### [**1.1.2.  Perfiles de los integrantes del equipo.**](#perfiles-de-integrantes-del-equipo)
 
