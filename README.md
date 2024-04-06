@@ -437,178 +437,170 @@ Con el propósito de conocer la realidad de nuestros usuarios, buscamos obtener 
 
 **Segmento objetivo #1:** Estudiantes Universitarios que necesiten movilizarse
 
-**Entrevistado N°1:** Dayana Rojas Sosa
+**Entrevistado N°1:** Dayana Rojas 
 
-- **Sexo:** Femenino
+**- Sexo:** Femenino
 
-- **Edad:** 19 años
+**- Edad:** 18 años
 
-- **Ubicación en la que vive:** Ate, Lima
+**- Ubicación en la que vive:** -----------
 
-**Acerca de la entrevista:**
-
-- **Link:** ------------------
-
-- **Instante en el que inicia:** ----------
-
-- **Duración:** --------
-
-**Resumen:**
-
-Texto
-
-
-
-**Entrevistado N°2:** ---------------
-
-- **Sexo:** ------
-
-- **Edad:** ------
-
-- **Ubicación en la que vive:** --------------
-
-**Acerca de la entrevista:**
-
-- **Link:** ------------------
-
-- **Instante en el que inicia:** ----------
-
-- **Duración:** --------
-
-**Resumen:**
-
-Texto
-
-
-
-
-**Entrevistado N°3:** ---------------
-
-- **Sexo:** ------
-
-- **Edad:** ------
-
-- **Ubicación en la que vive:** --------------
-
-**Acerca de la entrevista:**
-
-- **Link:** ------------------
-
-- **Instante en el que inicia:** ----------
-
-- **Duración:** --------
-
-**Resumen:**
-
-Texto
-
-
-
-**Segmento objetivo #2:** Estudiantes conductores
-
-**Entrevistado N°1:** ---------------
-
-**- Sexo:** ------
-
-**- Edad:** ------
-
-**- Ubicación en la que vive:** --------------
-
-**Acerca de la entrevista:**
+**Acerca de la entrevista:** Estudiante de la UPC
 
 **- Link:** ------------------
 
-**- Instante en el que inicia:** ----------
+**- Instante en el que inicia:** 0:00 min
 
-**- Duración:** --------
+**- Duración:** 5:34 min
 
 **Resumen:**
 
-Texto
+Se enfatiza la importancia de la seguridad y la confiabilidad al utilizar el servicio de carpooling. Valorizan la verificación de identidad, la comunicación directa con el conductor y un soporte técnico eficiente. Además, buscan informacion detallada del conductor y prefiere el metodo de pago en efectivo. La calificación del conductor es un factor crucial al seleccionar un viaje y considera promover el servicio de Unirider. En general desea una experiencia segura, transparente y cómoda al utilizar el servicio de carpooling.
 
 
-**Entrevistado N°2:** ---------------
+**Entrevistado N°2:** Jhunior Tequieri
 
-**- Sexo:** ------
+**- Sexo:** Masculino
 
-**- Edad:** ------
+**- Edad:** 20 años
 
-**- Ubicación en la que vive:** --------------
+**- Ubicación en la que vive:** ------
 
-**Acerca de la entrevista:**
+**Acerca de la entrevista:** Estudiante de ingenieria de Software
 
 **- Link:** ------------------
 
-**- Instante en el que inicia:** ----------
+**- Instante en el que inicia:** 0:00 min
 
-**- Duración:** --------
+**- Duración:** 3:51 min
 
 **Resumen:**
 
-Texto
+El entrevistado destaca la importancia de la verificación de identidad y la calificación de conductores para garantizar la seguridad. Valora la comunicación directa con los conductores y prefiere pagar en efectivo. Considera esencial contar con información detallada del conductor y aprueba un soporte técnico eficiente. Al seleccionar un viaje prioriza el precio y la calificación del conductor. Además, ve positiva la idea de promover el servicio entre estudiantes a través de colaboraciones con instituciones educativas.
 
 
-**Entrevistado N°3:** ---------------
+**Entrevistado N°3:** Cristhian
 
-**- Sexo:** ------
+**- Sexo:** Masculino
 
-**- Edad:** ------
+**- Edad:** 20 años
 
 **- Ubicación en la que vive:** --------------
 
-**Acerca de la entrevista:**
+**Acerca de la entrevista:** Estudia ciencia de la computacion en la UPC
 
 **- Link:** ------------------
 
-**- Instante en el que inicia:** ----------
+**- Instante en el que inicia:** 0:00 min
 
-**- Duración:** --------
+**- Duración:** 7:22 min
 
 **Resumen:**
 
-Texto
+El entrevistado comprende la importacia del carpooling y su impacto en la seguridad al evitar cuentas duplicadas. Destaca la utilidad de compartir experiencias y calificar a los conductores. Desea visualizar rutas y detalles del conductor, prefiere pagar en efectivo pero acepta monedero virtual. Valora la comunicación directa con el conductor. Solicita información detallada del automóvil y un soporte tecnicmo eficientes. Sugiere colaboraciones con universidades para mejorar el acceso al servicio para todos los estudiantes.
+
+
+
+**Segmento objetivo #2:** Estudiantes Universitarios propetarios de vehiculo privado
+
+**Entrevistado N°4:** Jefrey Sanchez
+
+**- Sexo:** Masculino
+
+**- Edad:** 20 años
+
+**- Ubicación en la que vive:** Callao
+
+**Acerca de la entrevista:** Estudia Ingenieria de software en la UPC cursando en el septimo ciclo actualmente
+
+**- Link:** ------------------
+
+**- Instante en el que inicia:** 0:06
+
+**- Duración:** 9:26 min
+
+**Resumen:**
+
+El posible conductor de UniRider enfatiza la necesidad de verificación de identidad tanto para los conductores y pasajeros, sugiere notificaciones de cancelación de asientos.Espera utilizar las ganancias obtenidas para el debido mantenimiento del automóvil y esta dispuesto a promover la plataforma entre otros estudiantes. Cabe resaltar que muestra un gran compromiso con la calidad del servicio y la seguridad del conductor y de los futuros usuarios , ya que conoce lo agotador y dificil que puede ser el viaje a un centro de estudios
+
+
+
+**Entrevistado N°5:** Leo Sicha
+
+**- Sexo:** Maxculino
+
+**- Edad:** ------
+
+**- Ubicación en la que vive:** Ate
+
+**Acerca de la entrevista:** Estudia Ingenieria de Sistemas en la UPC
+
+**- Link:** ------------------
+
+**- Instante en el que inicia:** 0:20 min
+
+**- Duración:** 6:59 min
+
+**Resumen:**
+
+El conductor se muestra a favor de la verificación de identidad para garantizar la seguridad de todos los usuarios. Aunque tiene poca experiencia en viajes largos, está acostumbrado al tráfico en Lima y esta dispuesto a brindar el servicio de carpoolig. Considera necesaria la función de cancelación para evitar problemas y esta interesado en ganar un ingreso de forma pasiva al compartir su viaje. Valora la posibilidad de crear rutas para una mejor organización del servicio. Además,tuvo experiencia previa llevando compañeros en su misma ruta y esta dispuesto a promover activamente UniRider.
+
+**Entrevistado N°6:** Mathias Kunimoto
+
+**- Sexo:** Masculino
+
+**- Edad:** ------
+
+**- Ubicación en la que vive:** Jesus Maria
+
+**Acerca de la entrevista:** Estudiante ing de software en la UPC actualmente en el quinto ciclo de la carrera
+
+**- Link:** ------------------
+
+**- Instante en el que inicia:** 0:10
+
+**- Duración:** 10:26
+
+**Resumen:**
+
+El entrevistado expresa la necesidad de verificar la información debido a la informalidad en el país. Lleva conduciendo 1 año y 2 meses y se siente cómodo manejando rutas largas.Valora la cancelación para que los pasajeros elijan según sus condiciones. Quiere esablecer su propia ruta para ganar ingresos pasivos. Dispuesto a promover UniRider como una opción segura y cómoda para los estudiantes. En resumen, prioriza la seguridad y comodidad del servicios
+
 
 ### [**2.2.3. Análisis de entrevistas.**](#análisis-de-entrevistas)
 
-De acuerdo con las entrevistas y resúmenes recopilados, hemos realizado el siguiente análisis de entrevistas, obteniendo así resultados concretos. 
+A continuación se proporciona un análisis resumido para cada segmento.
 
-#### Segmento objetivo #1: Estudiantes Universitarios que necesiten movilizarse
+**Segmento objetivo #1:** Estudiantes Universitarios que necesitan movilizarse.
 
-Hallazgos:
+* Los entrevistados enfatizan la importancia de la seguridad y la confiabilidad al utilizar el servicio de carpooling.
 
-- 
-  
-- 
-  
-- 
-  
-- 
-  
-- 
-  
-Hallazgos:
+* Valoran la verificación de identidad, la comunicación directa con el conductor y un soporte técnico eficiente
 
-#### Segmento objetivo #2: 
+* Prefieren pagar en efectivo y consideran esencial contar con información detallada del conductor
 
-- 
-  
-- 
-  
-- 
-  
-- 
-  
-- 
-  
-Conclusiones:
+* La calificación del conductor es un factor crucial al seleccionar un viajje y consideran promover el servicio de Unirider
 
-### Análisis por medio de herramientas estadísticas:
+* Desean una experiencia segura, transparente y comoda al utilizar el servicio de carpooling.
 
-- Segmento objetivo1: 
+**Analisis detallado con estadistica:**
 
-- Segmento objetivo 2: 
+ El 100% de los entrevistado desean seguridad,confiabilidad y consideran prioritario la calificación del conductor.
+ 
+ El 60% de los entrevistados prefierio pagar en efectivo, mientras que el 40% optó por usar un monedero virtual.
 
+**Segmento objetivo #2:** Estudiantes Universitarios propietarios de vehiculo privado.
 
+* Los entrevistados también destacan la importancia de la seguridad y confiabilidad en el servicio.
+
+* Valoran la verificación de identidad para garantizar la seguridad de todos los usuario.
+
+* Están dispuestos a compartir sus viajes para ganar ingresos pasivos y promover activamente Unirider.
+
+* Priorizan la calidad del servicio y la seguridad del conductor y los futuros usuarios
+
+**Analisis detallado con estadistica:**
+
+ 100% de los entrevistado desean seguridad y confiabilidad como tambien tienene la disposicion de compartir los aviajes.
 
 
 ## [**2.3. Needfinding.**](#needfinding)
