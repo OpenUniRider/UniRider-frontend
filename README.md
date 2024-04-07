@@ -349,6 +349,15 @@ para agilizar  el proceso de uso.
 
 ## [**2.1. Competidores.**](#competidores)
 
+En el ámbito del servicio de carpooling , existen otros servicios que presentan una solución efectiva e innovadora a la problemática planteada. A continuación, se presentarán los competidores principales para UniRider:
+
+1. HoopCarpool : Es una innovadora plataforma digital que tiene como objetivo principal facilitar el carpooling entre usuarios, ofreciendo una solución conveniente y eficiente para compartir viajes en automóvil. Con HoopCarpool, los usuarios pueden publicar sus rutas de viaje y buscar compañeros de viaje que compartan destinos similares, lo que les permite ahorrar dinero en transporte y reducir la huella ambiental al compartir vehículos privados.
+
+2. CarCool : Es una aplicación móvil y plataforma web que facilita el carpooling entre conductores y pasajeros, permitiéndoles compartir viajes en automóvil de manera conveniente y económica. Con CarCool, los usuarios pueden encontrar compañeros de viaje que se desplacen hacia destinos similares, lo que les permite reducir costos de transporte, minimizar la congestión vehicular y contribuir a la sostenibilidad ambiental al compartir vehículos privados. La aplicación ofrece funciones para planificar y coordinar viajes compartidos de manera eficiente, brindando una alternativa viable al transporte público tradicional y al uso de vehículos individuales.
+
+3. CompartiCar : Es una plataforma digital diseñada para facilitar el carpooling entre conductores y pasajeros, con el objetivo de optimizar el uso de vehículos privados y reducir la congestión vehicular en áreas urbanas. Esta aplicación permite a los usuarios publicar sus rutas de viaje y buscar compañeros de viaje que compartan destinos similares, proporcionando una solución conveniente y económica para los desplazamientos diarios.
+
+
 ### [**2.1.1. Análisis competitivo.**](#análisis-competitivo)
 
 <table>
@@ -465,6 +474,28 @@ para agilizar  el proceso de uso.
 
      
 ### [**2.1.2. Estrategias y tácticas frente a competidores.**](#estrategias-y-tácticas-frente-a-competidores)
+
+Haciendo uso de del análisis FODA anterior, hemos planteado las siguientes estrategias competitivas:
+
+Estrategias de cercanía con los usuarios:
+
+#1 Contactos con instituciones educativas para promocionar nuestra aplicación 
+
+UniRider al ser nuevo en el mercado tiene una gran desventaja en este aspecto. Para solucionar este problema se puede contactar con las instituciones educativas locales que ayuden a promocionar nuestra aplicación a través de sus redes y asi obtener la confiabilidad de nuestros usuarios. 
+
+#2 Realizar encuestas de satisfacción para los clientes
+Hemos visto que los clientes de la competencia tienen ideas o reseñas de la aplicación que les gustaría compartir y también que sean tomados en cuenta. Para ello, UniRider organizará cada 2 meses una encuesta de satisfacción de usuario, en la cual podrá decir su opinión de la aplicación así como ideas que les gustaría que tuviera nuestro producto.
+
+Estrategias de liderazgo a través del producto:
+
+#1 Ofrecer más características gratuitas
+
+Se analizó que muchos de nuestros competidores tienen funciones de pago que pueden ser muy requeridas para los clientes. Con esto en mente, UniRider agregará más de estas características de forma gratuita para nuestros usuarios.
+
+#2  Garantizar un sistema de guardado de información
+
+UniRider se compromete a implementar un sistema de guardado de información para ofrecer a nuestros clientes la capacidad de guardar sus rutas de viaje. Este sistema se diseñará con el objetivo de proporcionar una experiencia sin problemas y garantizar la confidencialidad de los datos del usuario.
+
 
 ## [**2.2. Entrevistas.**](entrevistas)
    
