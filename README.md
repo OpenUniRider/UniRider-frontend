@@ -738,6 +738,12 @@ Presentamos las siguientes necesidades principales que hemos analizado en base a
 
 ### [**2.3.1. User Personas.**](#user-personas)
 
+**Segmento objetivo #1:** Estudiantes Universitarios que necesiten movilizarse
+![Logo de Markdown](images/1.png)
+**Segmento objetivo #2:** Estudiantes Universitarios propetarios de vehiculo privado
+![Logo de Markdown](images/2.png)
+
+
 ### [**2.3.2. User Task Matrix.**](#user-task-matrix)
 
 ## **Ana Lopez**
