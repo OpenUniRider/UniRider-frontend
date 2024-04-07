@@ -437,17 +437,19 @@ Con el propósito de conocer la realidad de nuestros usuarios, buscamos obtener 
 
 **Segmento objetivo #1:** Estudiantes Universitarios que necesiten movilizarse
 
-**Entrevistado N°1:** Dayana Rojas 
+![Entrevista 1](images/Entrevista1.png)
+
+**Entrevistado N°1:** Dayana Melina Rojas Sosa
 
 **- Sexo:** Femenino
 
-**- Edad:** 18 años
+**- Edad:** 19 años
 
-**- Ubicación en la que vive:** -----------
+**- Ubicación en la que vive:** Lima Ate
 
 **Acerca de la entrevista:** Estudiante de la UPC
 
-**- Link:** ------------------
+**- Link:** https://drive.google.com/file/d/1h2BdpnA37VDaw0RsVfgR63AwyTi_U8tw/view?usp=drive_link
 
 **- Instante en el que inicia:** 0:00 min
 
@@ -457,18 +459,19 @@ Con el propósito de conocer la realidad de nuestros usuarios, buscamos obtener 
 
 Se enfatiza la importancia de la seguridad y la confiabilidad al utilizar el servicio de carpooling. Valorizan la verificación de identidad, la comunicación directa con el conductor y un soporte técnico eficiente. Además, buscan informacion detallada del conductor y prefiere el metodo de pago en efectivo. La calificación del conductor es un factor crucial al seleccionar un viaje y considera promover el servicio de Unirider. En general desea una experiencia segura, transparente y cómoda al utilizar el servicio de carpooling.
 
+![Entrevista 2](images/Entrevista2.png)
 
-**Entrevistado N°2:** Jhunior Tequieri
+**Entrevistado N°2:** Jhunior Giussepe Taquiro Calderon
 
 **- Sexo:** Masculino
 
 **- Edad:** 20 años
 
-**- Ubicación en la que vive:** ------
+**- Ubicación en la que vive:** Lima Surco
 
 **Acerca de la entrevista:** Estudiante de ingenieria de Software
 
-**- Link:** ------------------
+**- Link:** https://drive.google.com/file/d/1qcOPlSe6tpobT0Z58Lm3y8B4uwL1agxV/view?usp=sharing
 
 **- Instante en el que inicia:** 0:00 min
 
@@ -478,18 +481,19 @@ Se enfatiza la importancia de la seguridad y la confiabilidad al utilizar el ser
 
 El entrevistado destaca la importancia de la verificación de identidad y la calificación de conductores para garantizar la seguridad. Valora la comunicación directa con los conductores y prefiere pagar en efectivo. Considera esencial contar con información detallada del conductor y aprueba un soporte técnico eficiente. Al seleccionar un viaje prioriza el precio y la calificación del conductor. Además, ve positiva la idea de promover el servicio entre estudiantes a través de colaboraciones con instituciones educativas.
 
+![Entrevista 3](images/Entrevista3.png)
 
-**Entrevistado N°3:** Cristhian
+**Entrevistado N°3:** Cristhian Jeaker Araujo Canales
 
 **- Sexo:** Masculino
 
 **- Edad:** 20 años
 
-**- Ubicación en la que vive:** --------------
+**- Ubicación en la que vive:** Lima San Juan de Lurigancho
 
 **Acerca de la entrevista:** Estudia ciencia de la computacion en la UPC
 
-**- Link:** ------------------
+**- Link:** https://drive.google.com/file/d/1u_E7W2pBEd963ppGzyNq6ri8JNv2bY44/view?usp=drive_link
 
 **- Instante en el que inicia:** 0:00 min
 
@@ -499,9 +503,9 @@ El entrevistado destaca la importancia de la verificación de identidad y la cal
 
 El entrevistado comprende la importacia del carpooling y su impacto en la seguridad al evitar cuentas duplicadas. Destaca la utilidad de compartir experiencias y calificar a los conductores. Desea visualizar rutas y detalles del conductor, prefiere pagar en efectivo pero acepta monedero virtual. Valora la comunicación directa con el conductor. Solicita información detallada del automóvil y un soporte tecnicmo eficientes. Sugiere colaboraciones con universidades para mejorar el acceso al servicio para todos los estudiantes.
 
-
-
 **Segmento objetivo #2:** Estudiantes Universitarios propetarios de vehiculo privado
+
+![Entrevista 4](images/Entrevista4.png)
 
 **Entrevistado N°4:** Jefrey Sanchez
 
@@ -513,7 +517,7 @@ El entrevistado comprende la importacia del carpooling y su impacto en la seguri
 
 **Acerca de la entrevista:** Estudia Ingenieria de software en la UPC cursando en el septimo ciclo actualmente
 
-**- Link:** ------------------
+**- Link:** https://drive.google.com/file/d/1XJkl1zhuMz7T89BF1HmLBLTrAObuSh72/view?usp=sharing
 
 **- Instante en el que inicia:** 0:06
 
@@ -523,19 +527,19 @@ El entrevistado comprende la importacia del carpooling y su impacto en la seguri
 
 El posible conductor de UniRider enfatiza la necesidad de verificación de identidad tanto para los conductores y pasajeros, sugiere notificaciones de cancelación de asientos.Espera utilizar las ganancias obtenidas para el debido mantenimiento del automóvil y esta dispuesto a promover la plataforma entre otros estudiantes. Cabe resaltar que muestra un gran compromiso con la calidad del servicio y la seguridad del conductor y de los futuros usuarios , ya que conoce lo agotador y dificil que puede ser el viaje a un centro de estudios
 
-
+![Entrevista 5](images/Entrevista5.png)
 
 **Entrevistado N°5:** Leo Sicha
 
 **- Sexo:** Maxculino
 
-**- Edad:** ------
+**- Edad:** 22 años
 
 **- Ubicación en la que vive:** Ate
 
 **Acerca de la entrevista:** Estudia Ingenieria de Sistemas en la UPC
 
-**- Link:** ------------------
+**- Link:** https://drive.google.com/file/d/1QHZQD3JM9jqrBbkbcWzPBekCUn0aHpe4/view?usp=sharing
 
 **- Instante en el que inicia:** 0:20 min
 
@@ -545,17 +549,19 @@ El posible conductor de UniRider enfatiza la necesidad de verificación de ident
 
 El conductor se muestra a favor de la verificación de identidad para garantizar la seguridad de todos los usuarios. Aunque tiene poca experiencia en viajes largos, está acostumbrado al tráfico en Lima y esta dispuesto a brindar el servicio de carpoolig. Considera necesaria la función de cancelación para evitar problemas y esta interesado en ganar un ingreso de forma pasiva al compartir su viaje. Valora la posibilidad de crear rutas para una mejor organización del servicio. Además,tuvo experiencia previa llevando compañeros en su misma ruta y esta dispuesto a promover activamente UniRider.
 
+![Entrevista 6](images/Entrevista6.png)
+
 **Entrevistado N°6:** Mathias Kunimoto
 
 **- Sexo:** Masculino
 
-**- Edad:** ------
+**- Edad:** 23 años
 
 **- Ubicación en la que vive:** Jesus Maria
 
 **Acerca de la entrevista:** Estudiante ing de software en la UPC actualmente en el quinto ciclo de la carrera
 
-**- Link:** ------------------
+**- Link:**  https://drive.google.com/file/d/1vVT2_Al5ln5R1xNmnsoI7gowGw5fKxpI/view?usp=sharing
 
 **- Instante en el que inicia:** 0:10
 
