@@ -711,37 +711,43 @@ A continuación se proporciona un análisis resumido para cada segmento.
 
 Presentamos las siguientes necesidades principales que hemos analizado en base a nuestros usuarios:
 
-*Segmento #1:* Estudiantes Universitarios que necesiten movilizarse
+**Segmento #1:** Estudiantes Universitarios que necesiten movilizarse
 
 - Una información más detallada del conductor en el historial de viaje.
   
-- 
+- Una aplicación intuitiva que sea fácil de manejar.
   
-- 
+- La confiabilidad al utilizar el servicio de carpooling.
   
-- 
+- Experiencia de parte de los conductores.
   
-- 
+- La capacidad de comunicarse directamente con el conductor antes y durante el viaje.
   
-*Segmento #2:* 
+**Segmento objetivo #2:** Estudiantes Universitarios propietarios de vehiculo privado.
 
-- 
+- La seguridad y confiabilidad en el servicio.
   
-- 
+- Flexibilidad de horarios 
   
-- 
+- Facilidad de coordinacion
   
-- 
+- Notificacion por cancelacion de asientos
   
-- 
+- Creación de rutas para una mejor organización del servicio.
 
 
 ### [**2.3.1. User Personas.**](#user-personas)
 
-**Segmento objetivo #1:** Estudiantes Universitarios que necesiten movilizarse
+A continuación, se presentarán los user persona basados en nuestro segmento objetivo. Estos son arquetipos de nuestros usuarios ideales para nuestro segmento principal. 
+
+**Segmento objetivo #1: Estudiantes Universitarios que necesiten movilizarse**
+
 ![Logo de Markdown](images/1.png)
-**Segmento objetivo #2:** Estudiantes Universitarios propetarios de vehiculo privado
+
+**Segmento objetivo #2: Estudiantes Universitarios propetarios de vehiculo privado**
+
 ![Logo de Markdown](images/2.png)
+
 
 
 ### [**2.3.2. User Task Matrix.**](#user-task-matrix)
