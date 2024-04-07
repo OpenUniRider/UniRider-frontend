@@ -351,19 +351,117 @@ para agilizar  el proceso de uso.
 
 ### [**2.1.1. Análisis competitivo.**](#análisis-competitivo)
 
-|Tipo | logo    |  nuestro logo | ![Logo de Markdown](https://i.blogs.es/6e0273/maxresdefault/1366_2000.jpg) |  ![Logo de Markdown](https://splt.io/static/546b781de4b0cb1a83eb2f49/t/58920dd1414fb514625b545d/1485808725404/SPLTLogo.png)     | ![Logo de Markdown](https://w7.pngwing.com/pngs/612/905/png-transparent-logo-zimride-real-time-ridesharing-enterprise-rent-a-car-ithaca-design-text-trademark-logo.png) |
-|---------|---------|-------------|------------|--------------------|------------|
-|Perfil|Overview||||
-|Perfil|Ventaja competitiva ¿Qué valor ofrece a los clientes? ||||
-|Perfil de Marketing |Mercado objetivo ||||
-|Perfil de Marketing |Estrategias de marketing  ||||
-|Perfil de Producto|Productos & Servicios  ||||
-|Perfil de Producto|Precios & Costos  ||||
-|Perfil de Producto|Canales de distribución (Web y/o Móvil)  ||||
-|Análisis SWOT|Fortalezas  ||||
-|Análisis SWOT|Debilidades ||||
-|Análisis SWOT|Oportunidades ||||
-|Análisis SWOT|Amenazas ||||
+<table>
+    <thead>
+        <tr >
+            <th colspan=6 style="text-align: center">
+				<h2>
+					Competitive Analisis Landscape
+				</h2>
+			</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan=2 rowspan=2 style="text-align: center" align="center">¿Por qué llevar a cabo este análisis?</td>
+            <td colspan=4 style="text-align: center" align="center">¿Quiénes son nuestros principales competidores?</td>
+        </tr>
+		<tr>
+            <td colspan=4 style="text-align: center" align="center">El análisis de la competencia nos permite entender el contexto competitivo en el que nuestra producto operará. Este análisis nos brinda una visión clara de quiénes son nuestros competidores directos e indirectos, lo que nos ayuda a diseñar una estrategia sólida para aumentar la visibilidad de nuestro producto y llegar a un mayor número de posibles consumidores.</td>
+        </tr>
+		<tr>
+			<td rowspan=3 style="text-align: center" align="center">Perfil</td>
+			<td rowspan=2 style="text-align: center" align="center">Overview</td>
+      <td style="text-align: center" align="center">UniRider <p align="center"><img src="images/logoUniRider.png" alt="Logo PocketPartners" width="25%">
+</p></td>
+			<td style="text-align: center" align="center">HoopCarpool <p align="center"><img src="images/hoopcarpool.png" alt="Logo Splittr" width="40%"></p></td>
+			<td style="text-align: center" align="center">CarCool <p align="center"><img src="images/carcool.png" alt="Logo Tricount" width="40%"></p></td>
+			<td style="text-align: center" align="center">CompartiCar <p align="center"><img src="images/CompartiCar.png" alt="Logo Splitwise" width="40%"></p></td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Es una plataforma de carpooling diseñada específicamente para estudiantes universitarios en Lima. Su objetivo es facilitar los desplazamientos diarios de los estudiantes, ofreciendo una alternativa conveniente y económica al transporte público tradicional.</td>
+			<td style="text-align: center" align="center">Es una aplicación móvil que permite a las personas compartir coche para ir al trabajo o la universidad.</td>
+			<td style="text-align: center" align="center">Es una aplicación que permite a los empleados de una misma empresa compartir el viaje al trabajo, reduciendo los costos de transporte.</td>
+			<td style="text-align: center" align="center">Es una plataforma de viajes compartidos que conecta a conductores y pasajeros que buscan viajar de un lugar a otro ahorrando dinero y conociendo gente nueva. </td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Ventaja Competitiva ¿Qué valor ofrecen a los clientes</td>
+			<td style="text-align: center" align="center"><ul><li>Ofrece un valor único a sus clientes al enfocarse exclusivamente en las necesidades de los estudiantes universitarios. </li><li>Proporciona una plataforma segura, conveniente y socialmente conectada que permite a los estudiantes compartir viajes de manera eficiente, reduciendo los costos de transporte y mejorando la experiencia de viaje.</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Su expansión internacional que le permite llegar a más usuarios en diferentes países.</li> <li>Colaboración con empresas y universidades para integrar su servicio.</li> </ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Costos bajos.</li> <li> Ofrecer un servicio al cliente excepcional.</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li> Los usuarios tienen la flexibilidad de publicar y buscar viajes según sus propios horarios y rutas</li> <li>Ahorro de costos</li></ul> </td>
+		</tr>
+		<tr>
+			<td rowspan=2 style="text-align: center" align="center">Perfil del Marketing</td>
+			<td style="text-align: center" align="center">Mercado Objetivo</td>
+			<td style="text-align: center" align="center"><ul><li>Estudiantes universitarios de Lima.</li> <li>Estudiantes universitarios con auto.</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Estudiantes universitarios en busca de opciones accesibles</li> <li>Empresas interesadas en promover el carpooling entre sus empleados</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Empresas interesadas en promover el carpooling entre sus empleados</li> <li>Usuarios viajeros frecuentes</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>jóvenes profesionales urbanos</li> <li>Viajeros frecuentes:</li> </ul> </td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Estrategias de Marketing</td>
+			<td style="text-align: center" align="center"><ul><li> Colaboraciones con organizaciones estudiantiles.</li> <li> Eventos en universidades locales.</li> <li> Prueba gratis de 2 usos por dia en el plan freemium para lograr retención de estudiantes.</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Programas de afiliación con empresas y universidades.</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Utiliza plataformas como Facebook, Instagram, Twitter y LinkedIn para interactuar con los clientes, promocionar productos y servicios.</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li> Introduce ofertas especiales, descuentos por tiempo limitado.</li></ul> </td>
+		</tr>
+		<tr>
+			<td rowspan=3 style="text-align: center" align="center">Perfil del Producto</td>
+			<td style="text-align: center" align="center">Productos & Servicios</td>
+			<td style="text-align: center" align="center">Sitio web para el registro y uso de nuestro aplicativo</td>
+			<td style="text-align: center" align="center">Sitio web</td>
+			<td style="text-align: center" align="center">Sitio web</td>
+			<td style="text-align: center" align="center">Sitio web</td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Precios & Costos</td>
+			<td style="text-align: center" align="center"><ul><li>Plan fremium</li> <li>Plan Premium para estudiantes</li> <li>Plan premium para conductores</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Tarifas competitivas basadas en la distancia del viaje, con compensación para los conductores.</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Tarifas flexibles basadas en la distancia y la oferta y demanda, con beneficios económicos para ambas partes.</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Tarifas asequibles para pasajeros, compensación justa para conductores, transparentes y flexibles.</li></ul> </td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Canales de distribución (web/móvil)</td>
+			<td style="text-align: center" align="center">Plataforma web</td>
+			<td style="text-align: center" align="center">Plataforma web</td>
+			<td style="text-align: center" align="center">Plataforma web</td>
+			<td style="text-align: center" align="center">Plataforma web</td>
+		</tr>
+		<tr>
+			<td rowspan=4 style="text-align: center" align="center">Análisis SWOT</td>
+			<td style="text-align: center" align="center">Fortalezas</td>
+			<td style="text-align: center" align="center"><ul><li>Especialización en el mercado estudiantil</li> <li>Enfoque en la seguridad y comodidad del usuario.</li> <li>Uso de etiquetas para categorizar y filtrar las transacciones</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Plataforma fácil de usar</li> <li>Comunidad comprometida</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Experiencia sin complicaciones</li> <li>Ahorro de costos</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li> Flexibilidad y conveniencia</li> <li>Enfoque en la sostenibilidad</li></ul> </td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Debilidades</td>
+			<td style="text-align: center" align="center"><ul><li>Dependencia en la adopción y participación activa de los usuarios.
+</li> <li>Competencia con otras aplicaciones de carpooling establecidas.</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li> Dependencia de la disponibilidad de conductores y pasajeros.</li> <li>Necesidad de construir confianza en el servicio.</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Competencia agresiva en el sector</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Necesidad de construir una base de usuarios sólida, competencia en el mercado.</li></ul> </td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Oportunidades</td>
+			<td style="text-align: center" align="center"><ul><li>Alta demanda de alternativas de transporte para estudiantes universitarios.</li> <li>Posibilidad de expandirse a otras ciudades o segmentos de usuarios en el futuro.</li></ul> </td>
+			<td style="text-align: center" align="center">Creciente conciencia sobre la sostenibilidad, expansión a nuevas áreas geográficas.</td>
+			<td style="text-align: center" align="center">Se puede mejorar la pagina web hacerla mas interactiva</td>
+			<td style="text-align: center" align="center">Colaboraciones con empresas y organizaciones locales.</td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Amenazas</td>
+			<td style="text-align: center" align="center">Cambios en las regulaciones de transporte o en el comportamiento del usuario que podrían afectar la demanda de servicios de carpooling.</td>
+			<td style="text-align: center" align="center">Competencia de servicios establecidos, cambios en la regulación del transporte.</td>
+			<td style="text-align: center" align="center">Competencia de servicios establecidos, cambios en la regulación del transporte.</td>
+			<td style="text-align: center" align="center">Competencia de servicios establecidos, cambios en la regulación del transporte.</td>
+		</tr>
+    </tbody>
+</table>
+
+
 
      
 ### [**2.1.2. Estrategias y tácticas frente a competidores.**](#estrategias-y-tácticas-frente-a-competidores)
