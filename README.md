@@ -344,6 +344,61 @@ para agilizar  el proceso de uso.
 
 ### [**1.2.3. Segmentos objetivo.**](#segmentos-objetivo)
 
+Por medio de nuestro enfoque de obtener una solución efectiva a las problemáticas de nuestros futuros usuarios, identificamos los siguientes segmentos para UniRider:
+
+**Segmento objetivo #1: Estudiantes Universitarios que necesiten movilizarse.**
+
+Aspectos demográficos:
+
+- Sexo: masculino y femenino
+
+- Edades: adultos entre 18 - 30 años
+
+- Nivel socioeconómico: clases A, C, C (alta, media-alta y media)
+
+Aspectos geográficos:
+
+- Nacionalidad: Peruana
+  
+- Zona geográfica en la que vive: Urbana
+  
+- Departamento: Lima Metropolitana
+
+Aspectos psicográficos:
+
+- Abiertos a herramientas que les ayuden a simplificar y facilitar su viaje.
+  
+- Son hábiles dentro del uso de dispositivos inteligentes.
+  
+- 
+
+**Segmento objetivo #2: Estudiantes Universitarios propetarios de vehiculo privado.**
+
+AAspectos demográficos:
+
+- Sexo: masculino y femenino
+
+- Edades: adultos entre 18 - 30 años
+
+- Nivel socioeconómico: clases A, C, C (alta, media-alta y media)
+
+Aspectos geográficos:
+
+- Nacionalidad: Peruana
+  
+- Zona geográfica en la que vive: Urbana
+  
+- Departamento: Lima Metropolitana
+
+Aspectos psicográficos:
+
+- Son hábiles dentro del uso de dispositivos inteligentes.
+  
+- 
+  
+- 
+
+
 
 # [**Capítulo II: Requirements Elicitation & Analysis**](#capítulo-ii-requirements-elicitation--analysis)
 
@@ -564,7 +619,7 @@ Con el propósito de conocer la realidad de nuestros usuarios, buscamos obtener 
 
 ### [**2.2.2. Registro de entrevistas.**](#registro-de-entrevistas)
 
-**Segmento objetivo #1:** Estudiantes Universitarios que necesiten movilizarse
+**Segmento objetivo #1:** Estudiantes Universitarios que necesiten movilizarse.
 
 ![Entrevista 1](images/Entrevista1.png)
 
@@ -632,7 +687,7 @@ El entrevistado destaca la importancia de la verificación de identidad y la cal
 
 El entrevistado comprende la importacia del carpooling y su impacto en la seguridad al evitar cuentas duplicadas. Destaca la utilidad de compartir experiencias y calificar a los conductores. Desea visualizar rutas y detalles del conductor, prefiere pagar en efectivo pero acepta monedero virtual. Valora la comunicación directa con el conductor. Solicita información detallada del automóvil y un soporte tecnicmo eficientes. Sugiere colaboraciones con universidades para mejorar el acceso al servicio para todos los estudiantes.
 
-**Segmento objetivo #2:** Estudiantes Universitarios propetarios de vehiculo privado
+**Segmento objetivo #2:** Estudiantes Universitarios propetarios de vehiculo privado.
 
 ![Entrevista 4](images/Entrevista4.png)
 
