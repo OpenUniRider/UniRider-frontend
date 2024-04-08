@@ -95,7 +95,7 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
       - [**1.2.2.2. Lean UX Assumptions.**](#1222-lean-ux-assumptions)
       - [**1.2.2.3. Lean UX Hypothesis Statements.**](#1223-lean-ux-hypothesis-statements)
       - [**1.2.2.4. Lean UX Canvas.**](#1224-lean-ux-canvas)
-    - [**1.2.3. Segmentos objetivo.**](#123-segmentos-objetivo)
+  - [**1.3. Segmentos objetivo.**](#123-segmentos-objetivo)
 - [**Capítulo II: Requirements Elicitation \& Analysis**](#capítulo-ii-requirements-elicitation--analysis)
   - [**2.1. Competidores.**](#21-competidores)
     - [**2.1.1. Análisis competitivo.**](#211-análisis-competitivo)
@@ -236,7 +236,7 @@ Después de que el estudiante inicia sesión en el sistema y elige su universida
 
 ##### How much (Cuánto)
 ###### ¿Cuál es la magnitud del problema?
-En Lima, se registran numerosos problemas socioculturales, como la delincuencia y el tráfico, que pueden ser especialmente perjudiciales para los estudiantes que suelen llevar consigo sus teléfonos celulares y computadoras portátiles. Además, está comprobado que el tráfico puede generar ansiedad, ya que los estudiantes corren el riesgo de llegar tarde a clases o, peor aún, a exámenes, debido a las frecuentes paradas de los autobuses en cada tramo. Por esta razón, se está buscando una solución para reducir la posibilidad de robos y la incomodidad durante el viaje. La propuesta es ofrecer asientos garantizados durante todo el trayecto a un costo similar al del transporte público, pero con mayor comodidad y eficiencia en cuanto al tiempo de viaje. 
+En Lima, se registran numerosos problemas socioculturales, como la delincuencia y el tráfico, que pueden ser especialmente perjudiciales para los estudiantes que suelen llevar consigo sus teléfonos celulares y computadoras portátiles (INEI, 2021). Estudios previos han demostrado que el crimen en Lima afecta negativamente la calidad de vida de los residentes, exacerbando los niveles de estrés y ansiedad (Traverso, 2020). Además, la situación del tráfico en la ciudad ha sido objeto de preocupación constante, ya que los estudiantes corren el riesgo de llegar tarde a clases o exámenes debido a las frecuentes paradas de los autobuses en cada tramo (Municipalidad Metropolitana de Lima, 2023).
 
 ###### Quienes seran los beneficiados por el servicio?
 Los estudiantes universitarios que deseen una alternativa que sea eficiente, cómoda y económica, así como aquellos que busquen generar ingresos o reducir sus gastos en combustible durante su viaje hacia la universidad.
@@ -370,8 +370,6 @@ Aspectos psicográficos:
 - Abiertos a herramientas que les ayuden a simplificar y facilitar su viaje.
   
 - Son hábiles dentro del uso de dispositivos inteligentes.
-  
-- 
 
 **Segmento objetivo #2: Estudiantes Universitarios propetarios de vehiculo privado.**
 
@@ -394,12 +392,6 @@ Aspectos geográficos:
 Aspectos psicográficos:
 
 - Son hábiles dentro del uso de dispositivos inteligentes.
-  
-- 
-  
-- 
-
-
 
 # [**Capítulo II: Requirements Elicitation & Analysis**](#capítulo-ii-requirements-elicitation--analysis)
 
