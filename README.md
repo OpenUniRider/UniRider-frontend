@@ -918,11 +918,15 @@ A continuación, se presentarán los user persona basados en nuestro segmento ob
 
 ### [**2.3.5. As-is Scenario Mapping**](as-is-scenario-mapping)
 
-| Steps  | Situacion de transporte actual |Presupuesto y Limitaciones | Conexión Social y Movilidad | Desafíos y Limitaciones |
-|--------|--------------------------------|---------------------------|-----------------------------|-------------------------|
-|Doing||||
-|Thinking||||
-|Feeling||||
+*Segmento Estudiantes Universitarios que necesiten movilizarse*
+
+![IMobjetivo1](images/asis1.png)
+
+
+
+*Segmento Estudiantes Universitarios propetarios de vehiculo privado*
+
+![SMobjetivo2](images/asis2.png)
 
 ## [**2.4. Ubiquitous Language**](#ubiquitous-language)
 
