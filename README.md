@@ -83,29 +83,68 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 
 # Contenido
 
+- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+  - [TB1](#tb1)
+- [Studen Outcome](#studen-outcome)
+- [Contenido](#contenido)
 - [**Capítulo I: Introducción.**](#capítulo-i-introducción)
   - [**1.1  Startup Profile.**](#11--startup-profile)
     - [**1.1.1. Descripción del startup.**](#111-descripción-del-startup)
     - [**1.1.2.  Perfiles de los integrantes del equipo.**](#112--perfiles-de-los-integrantes-del-equipo)
   - [**1.2. Solution Profile.**](#12-solution-profile)
     - [**1.2.1. Antecedentes y Problemática.**](#121-antecedentes-y-problemática)
+        - [What (Qué)](#what-qué)
+          - [¿Cuál es el problema?](#cuál-es-el-problema)
+        - [When (Cuando)](#when-cuando)
+          - [¿Cuándo sucede el problema?](#cuándo-sucede-el-problema)
+        - [Where (Donde)](#where-donde)
+          - [¿A dónde se dirige?](#a-dónde-se-dirige)
+          - [¿Dónde surge el problema?](#dónde-surge-el-problema)
+        - [Who (Quién)](#who-quién)
+          - [¿Quiénes están involucrados? ¿Quién lo utilizará?](#quiénes-están-involucrados-quién-lo-utilizará)
+        - [Why (Por qué)](#why-por-qué)
+          - [¿Cuál es la causa del problema?](#cuál-es-la-causa-del-problema)
+    - [¿Cuáles son las 2H?](#cuáles-son-las-2h)
+        - [How (Cómo)](#how-cómo)
+          - [¿Cómo se utilizará el producto?](#cómo-se-utilizará-el-producto)
+          - [¿Cómo lograremos desarrollar la correcta gestión del proceso de carpooling entre estudiantes?](#cómo-lograremos-desarrollar-la-correcta-gestión-del-proceso-de-carpooling-entre-estudiantes)
+        - [How much (Cuánto)](#how-much-cuánto)
+          - [¿Cuál es la magnitud del problema?](#cuál-es-la-magnitud-del-problema)
+          - [Quienes seran los beneficiados por el servicio?](#quienes-seran-los-beneficiados-por-el-servicio)
     - [**1.2.2. Lean UX Process.**](#122-lean-ux-process)
       - [**1.2.2.1. Lean UX Problem Statements.**](#1221-lean-ux-problem-statements)
+          - [Problem Statement:](#problem-statement)
       - [**1.2.2.2. Lean UX Assumptions.**](#1222-lean-ux-assumptions)
+          - [Business Assumptions:](#business-assumptions)
+          - [User Assumptions:](#user-assumptions)
+          - [¿Quién es el usuario?](#quién-es-el-usuario)
+          - [¿Qué problemas tiene nuestro producto? ¿Resolver?](#qué-problemas-tiene-nuestro-producto-resolver)
+          - [¿Qué características son importantes?](#qué-características-son-importantes)
+          - [¿Dónde encaja nuestro producto en su trabajo o vida?](#dónde-encaja-nuestro-producto-en-su-trabajo-o-vida)
+          - [¿Cuándo y cómo es nuestro producto? ¿Usado?](#cuándo-y-cómo-es-nuestro-producto-usado)
+          - [¿Cómo debe verse nuestro producto y cómo debe comportarse?](#cómo-debe-verse-nuestro-producto-y-cómo-debe-comportarse)
+          - [Feature Assumptions:](#feature-assumptions)
       - [**1.2.2.3. Lean UX Hypothesis Statements.**](#1223-lean-ux-hypothesis-statements)
       - [**1.2.2.4. Lean UX Canvas.**](#1224-lean-ux-canvas)
-  - [**1.3. Segmentos objetivo.**](#123-segmentos-objetivo)
+  - [**1.3. Segmentos objetivo.**](#13-segmentos-objetivo)
 - [**Capítulo II: Requirements Elicitation \& Analysis**](#capítulo-ii-requirements-elicitation--analysis)
   - [**2.1. Competidores.**](#21-competidores)
     - [**2.1.1. Análisis competitivo.**](#211-análisis-competitivo)
     - [**2.1.2. Estrategias y tácticas frente a competidores.**](#212-estrategias-y-tácticas-frente-a-competidores)
   - [**2.2. Entrevistas.**](#22-entrevistas)
     - [**2.2.1. Diseño de entrevistas.**](#221-diseño-de-entrevistas)
+    - [Preguntas principales:](#preguntas-principales)
+    - [Preguntas complementarias:](#preguntas-complementarias)
+    - [Preguntas principales:](#preguntas-principales-1)
+    - [Preguntas complementarias:](#preguntas-complementarias-1)
     - [**2.2.2. Registro de entrevistas.**](#222-registro-de-entrevistas)
     - [**2.2.3. Análisis de entrevistas.**](#223-análisis-de-entrevistas)
   - [**2.3. Needfinding.**](#23-needfinding)
     - [**2.3.1. User Personas.**](#231-user-personas)
     - [**2.3.2. User Task Matrix.**](#232-user-task-matrix)
+  - [**Ana Lopez**](#ana-lopez)
+  - [**Luis Gomez**](#luis-gomez)
     - [**2.3.3. User Journey Mapping**](#233-user-journey-mapping)
     - [**2.3.4. Empathy Mapping**](#234-empathy-mapping)
     - [**2.3.5. As-is Scenario Mapping**](#235-as-is-scenario-mapping)
@@ -1026,11 +1065,58 @@ De la misma manera, UniRider también usará una organización  de **forma secue
 
 ### [**4.2.2. Labeling Systems.**](#labeling-systems)
 
+Los encabezados aparecen en las interfaces que no son parte central de la aplicación. Cada uno resume claramente el contenido de la pantalla actual para el usuario. Junto con las imágenes, las secciones del panel de control tienen etiquetas que guían al usuario sobre su contenido. Es por eso que todas las tarjetas en esta vista tienen títulos. En la barra de navegación, siempre se muestran etiquetas textuales para las vistas principales, el panel de control y el registro de procesos.
+
 ### [**4.2.3. SEO Tags and Meta Tags.**](#seo-tags-and-meta-tags)
+
+Las etiquetas meta son herramientas fundamentales para indicar información codificada y definir metadatos en un sitio web. Aunque no son visibles para los usuarios, los navegadores y rastreadores web las interpretan. Estas etiquetas facilitan el análisis de archivos HTML y contribuyen al mantenimiento del contenido del sitio. Además, desempeñan un papel crucial en mejorar el posicionamiento de nuestra página en los motores de búsqueda. Las etiquetas meta que vamos a utilizar son:
+
+
+**Titulo:**
+
+```
+<Title>Register your processes with UniRider</Title>
+```
+
+
+**Codificación de carácteres:**
+
+```
+<meta charset="utf-8">
+```
+
+
+**Descripción:**
+
+```
+<meta name="description" content="UniRider is a web application focused on the transportation of university students carried out by university students, guaranteeing safety and comfort."/>
+```
+
+
+**Palabras Claves:**
+
+```
+<meta name="keywords" content="process, management, application, taxi, security, economic, flexibility"/>
+```
+
+
+**Autor y Derechos de Autor:**
+
+```
+<meta name="author" content="UniRider"/>
+
+<meta name="copyright" content="Copyright UniRider team" />
+```
 
 ### [**4.2.4. Searching Systems.**](#searching-systems)
 
+Es importante que los usuarios administradores tengan la posibilidad de distinguir y filtrar la información de los registros almacenados en la aplicación web. Uno de los objetivos del sistema es representar de forma adecuada, fácil y rápida los viajes proporcionados por los conductores. Así mismo, nuestros usuarios(pasajeros/universitarios) podrán reservar asientos en las rutas que estén establecidas por nuestros conductores.
+
+
+
 ### [**4.2.5. Navigation Systems.**](#navigation-systems)
+
+Los principales sistemas de navegación en la Landing Page son los menús ubicados en la parte superior e inferior. El etiquetado de estos enlaces dirige a los usuarios a las secciones específicas que desean explorar en la página. Si el usuario no utiliza estos enlaces, experimentará un desplazamiento descendente en la página. En la aplicación, nuestros usuarios por parte de los conductores podrán generar su ruta a su centro de estudios estableciendo así los asientos que tiene disponible, por parte de los pasajeros les saldrá una notificación si se encuentra dentro del rango de esta ruta para poder reservar un asiento.
 
 ## [**4.3. Landing Page UI Design**](#landing-page-ui-design)
 
@@ -1069,6 +1155,10 @@ De la misma manera, UniRider también usará una organización  de **forma secue
 ## [**4.8. Database Design.**](#database-design)
 
 ### [**4.8.1. Database Diagram.**](#database-diagram)
+
+Para este proyecto se optó por escoger el motor de base de datos de MySQL, para almacenar y gestionar la información de nuestros usuarios, los vehículos, el instituto al que pertenecen entre otros varios. Este motor permite expandir los recursos utilizados en la base de datos del proyecto según las necesidades y requerimientos del negocio. 
+
+![Base de Datos](images/basedatos.png)
 
 # [**Capítulo V: Product Implementation, Validation & Deployment.**](#capítulo-v-product-implementation-validation--deployment)
 
