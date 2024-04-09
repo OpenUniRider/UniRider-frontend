@@ -859,6 +859,15 @@ A continuación, se presentarán los user persona basados en nuestro segmento ob
 
 ### [**2.3.3. User Journey Mapping**](#user-journey-mapping)
 
+**Ana Lopez**
+
+
+![Logo de Markdown](images/JouneryMap2.png)
+
+**Luis Gomez**
+
+![Logo de Markdown](images/JouneryMap1.png)
+
 ### [**2.3.4. Empathy Mapping**](#empathy-mapping)
 
 **Ana Lopez**
