@@ -861,6 +861,14 @@ A continuación, se presentarán los user persona basados en nuestro segmento ob
 
 ### [**2.3.4. Empathy Mapping**](#empathy-mapping)
 
+**Ana Lopez**
+
+![Logo de Markdown](images/Empathymap1.png)
+
+**Luis Gomez**
+
+![Logo de Markdown](images/Empathymap2.png)
+
 ### [**2.3.5. As-is Scenario Mapping**](as-is-scenario-mapping)
 
 ## [**2.4. Ubiquitous Language**](#ubiquitous-language)
