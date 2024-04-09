@@ -84,29 +84,68 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 # Contenido
 
 
+- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+  - [TB1](#tb1)
+- [Studen Outcome](#studen-outcome)
+- [Contenido](#contenido)
 - [**Capítulo I: Introducción.**](#capítulo-i-introducción)
   - [**1.1  Startup Profile.**](#11--startup-profile)
     - [**1.1.1. Descripción del startup.**](#111-descripción-del-startup)
     - [**1.1.2.  Perfiles de los integrantes del equipo.**](#112--perfiles-de-los-integrantes-del-equipo)
   - [**1.2. Solution Profile.**](#12-solution-profile)
     - [**1.2.1. Antecedentes y Problemática.**](#121-antecedentes-y-problemática)
+        - [What (Qué)](#what-qué)
+          - [¿Cuál es el problema?](#cuál-es-el-problema)
+        - [When (Cuando)](#when-cuando)
+          - [¿Cuándo sucede el problema?](#cuándo-sucede-el-problema)
+        - [Where (Donde)](#where-donde)
+          - [¿A dónde se dirige?](#a-dónde-se-dirige)
+          - [¿Dónde surge el problema?](#dónde-surge-el-problema)
+        - [Who (Quién)](#who-quién)
+          - [¿Quiénes están involucrados? ¿Quién lo utilizará?](#quiénes-están-involucrados-quién-lo-utilizará)
+        - [Why (Por qué)](#why-por-qué)
+          - [¿Cuál es la causa del problema?](#cuál-es-la-causa-del-problema)
+    - [¿Cuáles son las 2H?](#cuáles-son-las-2h)
+        - [How (Cómo)](#how-cómo)
+          - [¿Cómo se utilizará el producto?](#cómo-se-utilizará-el-producto)
+          - [¿Cómo lograremos desarrollar la correcta gestión del proceso de carpooling entre estudiantes?](#cómo-lograremos-desarrollar-la-correcta-gestión-del-proceso-de-carpooling-entre-estudiantes)
+        - [How much (Cuánto)](#how-much-cuánto)
+          - [¿Cuál es la magnitud del problema?](#cuál-es-la-magnitud-del-problema)
+          - [Quienes seran los beneficiados por el servicio?](#quienes-seran-los-beneficiados-por-el-servicio)
     - [**1.2.2. Lean UX Process.**](#122-lean-ux-process)
       - [**1.2.2.1. Lean UX Problem Statements.**](#1221-lean-ux-problem-statements)
+          - [Problem Statement:](#problem-statement)
       - [**1.2.2.2. Lean UX Assumptions.**](#1222-lean-ux-assumptions)
+          - [Business Assumptions:](#business-assumptions)
+          - [User Assumptions:](#user-assumptions)
+          - [¿Quién es el usuario?](#quién-es-el-usuario)
+          - [¿Qué problemas tiene nuestro producto? ¿Resolver?](#qué-problemas-tiene-nuestro-producto-resolver)
+          - [¿Qué características son importantes?](#qué-características-son-importantes)
+          - [¿Dónde encaja nuestro producto en su trabajo o vida?](#dónde-encaja-nuestro-producto-en-su-trabajo-o-vida)
+          - [¿Cuándo y cómo es nuestro producto? ¿Usado?](#cuándo-y-cómo-es-nuestro-producto-usado)
+          - [¿Cómo debe verse nuestro producto y cómo debe comportarse?](#cómo-debe-verse-nuestro-producto-y-cómo-debe-comportarse)
+          - [Feature Assumptions:](#feature-assumptions)
       - [**1.2.2.3. Lean UX Hypothesis Statements.**](#1223-lean-ux-hypothesis-statements)
       - [**1.2.2.4. Lean UX Canvas.**](#1224-lean-ux-canvas)
-  - [**1.3. Segmentos objetivo.**](#123-segmentos-objetivo)
+    - [**1.2.3. Segmentos objetivo.**](#123-segmentos-objetivo)
 - [**Capítulo II: Requirements Elicitation \& Analysis**](#capítulo-ii-requirements-elicitation--analysis)
   - [**2.1. Competidores.**](#21-competidores)
     - [**2.1.1. Análisis competitivo.**](#211-análisis-competitivo)
     - [**2.1.2. Estrategias y tácticas frente a competidores.**](#212-estrategias-y-tácticas-frente-a-competidores)
   - [**2.2. Entrevistas.**](#22-entrevistas)
     - [**2.2.1. Diseño de entrevistas.**](#221-diseño-de-entrevistas)
+    - [Preguntas principales:](#preguntas-principales)
+    - [Preguntas complementarias:](#preguntas-complementarias)
+    - [Preguntas principales:](#preguntas-principales-1)
+    - [Preguntas complementarias:](#preguntas-complementarias-1)
     - [**2.2.2. Registro de entrevistas.**](#222-registro-de-entrevistas)
     - [**2.2.3. Análisis de entrevistas.**](#223-análisis-de-entrevistas)
   - [**2.3. Needfinding.**](#23-needfinding)
     - [**2.3.1. User Personas.**](#231-user-personas)
     - [**2.3.2. User Task Matrix.**](#232-user-task-matrix)
+  - [**Ana Lopez**](#ana-lopez)
+  - [**Luis Gomez**](#luis-gomez)
     - [**2.3.3. User Journey Mapping**](#233-user-journey-mapping)
     - [**2.3.4. Empathy Mapping**](#234-empathy-mapping)
     - [**2.3.5. As-is Scenario Mapping**](#235-as-is-scenario-mapping)
@@ -904,11 +943,67 @@ A continuación, se presentarán los user persona basados en nuestro segmento ob
 
 ### [**4.1.1. General Style Guidelines.**](#style-guidelines)
 
+Un "style guideline" es un conjunto de reglas y directrices que definen cómo se debe redactar, diseñar o presentar documentos, contenido web, software u otros tipos de trabajos creativos. A continuación, se detallan los parámetros utilizados en la estructura del proyecto:
+
+**Branding:**
+
+_Brand Overview:_
+
+La startup, presentada con el nombre de “UniRider”, se enfoca en movilizar de manera eficiente a los estudiantes universitarios. El transporte público convencional puede ser incómodo, y tener un coche propio no es una opción para muchos. Es por ello, que estamos desarrollando un sistema que permita a estos estudiantes universitarios compartir viajes en vehículos particulares, utilizando el concepto de compartir vehículos con otros (también conocido como carpooling). Este sistema web no solo ayudará a miles de estudiantes a ahorrar dinero en transporte, sino que también contribuye a reducir el tráfico. Gracias a nuestras diversas opciones, los estudiantes podran conectarse con sus compañeros que van en la misma dirección, compartir gastos de combustible y tener una experiencia de viaje más cómoda y social.
+
+* **Misión:** Revolucionar la forma en que los estudiantes universitarios se movilizan en entornos urbanos, proporcionando una solución de carpooling conveniente y económica.
+  <br><br>
+* **Visión:** Ser la principal plataforma de carpooling para estudiantes universitarios, facilitando la movilidad urbana de manera sostenible y colaborativa.
+
+![UniRider Startup Logo](images/logoStarUpUniRider.png)
+
+**Logotico del Servicio**
+
+![UniRider Service Logo](images/logoUniRider.png)
+
+**Colores:**
+
+Los colores toman protagonismo de la primera percepción visual de los usuarios. Es así que, guiados por los principios de la psicología del color. El azul oscuro suele evocar sensaciones de confianza, seriedad y profesionalismo. También puede transmitir calma y estabilidad. Por otro lado, se escogio como tonalidad predominante el color Azul se asocia con la confianza, la seguridad y la eficiencia, es lo que queremos brindar a nuestros usuarios. Como tonalidades secundarias se escogieron amarillo, negro, gris y blanco.
+
+![Colores](images/colores.png)
+
+**Tipografía:**
+
+La tipografía establece jerarquía entre los diversos grupos de contenido de la página. Asimismo, cumple un rol importante al momento de guiar al usuario a través de la interfaz.
+
+* Heading 1: Tiene un tamaño de 52 px.
+* Heading 2: Tiene un tamaño de 44 px.
+* Heading 3: Tiene un tamaño de 36 px.
+* Heading 4: Tiene un tamaño de 24 px.
+
+![Tipografía](images/tipografia.png)
+
 ### [**4.1.2. Web Style Guidelines.**](#web-style-guidelines)
+
+El enfoque de UniRider para su aplicación web se centra en la simplicidad y la eficiencia en la realización de los procesos. Las fases del proceso y los formularios que deben completarse se presentan en formularios y secciones que ocupan la mayor parte de la pantalla.
+
+**Tarjetas:**
+
+Se hace uso del componente "mat-card" de la colección de Angular Material para representar los avisos y las notificaciones importantes de la aplicación.
+Estas notificaciones seran acompañadas con sierto texto reprensentativo, lo cual sera asignado por el usuario. Tambien con una imagen del usaurio. 
+
+**Imágenes:**
+
+En el diseño web se incluirán imágenes descriptivas y con un objetivo puntual. En primer lugar, la imagen de perfil del usuario tanto como el pasajero y como el conductor. En todo momento se encontrará en la parte superior izquierda. Así mismo se contará con imágenes del conductor para una visualización del usuario. Dado que las aplicaciones de escritorio se muestran en una alta resolución de pantalla, resulta de suma importancia que el usuario cuente con guías visuales fácilmente identificables para acceder a las secciones con el flujo funcional de la aplicación.
+
+**Botones:**
+
+El uso de los botones dentro de nuestro trabajo jugaron un rol muy importante ya que gracias a estos nuestros usuarios podrán realizar acciones como reservar un asiento, empezar una ruta o un viaje. Funciones básicas que serán necesarias para un mejor manejo de nuestro servicio.
+
 
 ## [**4.2. Information Architecture.**](#information-architecture)
 
 ### [**4.2.1. Organization Systems.**](#organization-systems)
+
+La organización de **forma jerárquica** presenta al usuario con un orden de importancia para los elementos que se muestran en pantalla. Se utilizó este orden para las pantallas de log-in y los perfiles de los conductores y pasajeros, trazar una ruta o reservar un asiento
+
+De la misma manera, UniRider también usará una organización  de **forma secuencial**. De esta manera, se creará un camino que el usuario seguirá paso a paso (step-by-step) y evitará que se pierda o abrume por el contenido.
+
 
 ### [**4.2.2. Labeling Systems.**](#labeling-systems)
 
@@ -921,6 +1016,8 @@ A continuación, se presentarán los user persona basados en nuestro segmento ob
 ## [**4.3. Landing Page UI Design**](#landing-page-ui-design)
 
 ### [**4.3.1. Landing Page Wireframe.**](#landing-page-wireframe)
+
+![wireframe](images/wireframe.png)
 
 ### [**4.3.2. Landing Page Mock-up.**](#landing-page-mock-up)
 
