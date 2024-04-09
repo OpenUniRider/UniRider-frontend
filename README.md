@@ -880,6 +880,12 @@ A continuación, se presentarán los user persona basados en nuestro segmento ob
 
 ### [**2.3.5. As-is Scenario Mapping**](as-is-scenario-mapping)
 
+| Steps  | Situacion de transporte actual |Presupuesto y Limitaciones | Conexión Social y Movilidad | Desafíos y Limitaciones |
+|--------|--------------------------------|---------------------------|-----------------------------|-------------------------|
+|Doing||||
+|Thinking||||
+|Feeling||||
+
 ## [**2.4. Ubiquitous Language**](#ubiquitous-language)
 
 # [**Capítulo III: Requirements Specification.**](#capítulo-iii-requirements-specification)
