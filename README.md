@@ -1242,6 +1242,21 @@ Para este proyecto se optó por escoger el motor de base de datos de MySQL, para
 
 #### [**5.2.1.1. Sprint Planning 1.**](#sprint-planning-1)
 
+| Sprint 1                         | Implementación de funcionalidades y diseño de la aplicación.|
+| -------------------------------- | ----------------------------------------------------------- |
+| Sprint Planning Background       |
+| Date                             | 09/04/2024|
+| Time                             | 22:00|
+| Location                         | Reunión realizada mediante Discord|
+| Prepared By                      | Mayta Lopez, Harold Jaime	|
+| PAttendees (to planning meeting) | <li>Mayta Lopez, Harold Jaime</li>	 <li>Agama Espinoza, Eric Fabrizio </li> <li>Cortez Flores, Ely Rivaldo  </li> <li>Pardo Zapata, Gustavo Adolfo </li> <li>Anampa Lavado, Luis Angel </li>|
+| **Sprint Goal & User Stories**   |
+| US abarcados (Sprint 1) |<b>US-01 (2 us. points)</b></br>Como Usuario Quiero poder crear mi usuario Para acceder al servicio de carpooling.</br></br><b>US-02 (3 us. points)</b></br>Como Usuario Quiero buscar viajes disponibles Para poder planificar mis desplazamientos.</br></br><b>US-03</b> (3 us. points)</br>	Como Usuario Quiero poder reservar un asiento en el viaje disponible Para garantizar mi lugar.</br></br><b>US-04 (1 us. points)</b></br>Como Usuario Quiero poder comunicarme con el conductor de mi viaje Para coordinar detalles y obtener información adicional.</br></br><b>US-05 (1 us. points)</b></br>Como Usuario Quiero poder cancelar una reserva de viaje Para los casos de que surjan imprevistos.</br></br><b>US-06 (2 us. points)<b></br>Como Usuario Quiero poder calificar y dejar comentarios sobre la experiencia de viaje con el conductor Para ayudar a otros usuarios en su elección.</br></br><b>US-01 (2 us. points)<b></br>Como Usuario Quiero visualizar los planes de servicio Para visualizar los precios y beneficios que me brindan.</br></br><b>US-02 (2 us. points)</b></br>Como Usuario Quiero seleccionar un plan de servicio Para adquirir los beneficios ofrecidos.</br></br><b>US-03 (2 us. points)</b></br>Como Usuario Quiero realizar el pago del plan seleccionado Para activar los beneficios ofrecidos.</br></br><b>US-04 (2 us. points)</b></br>Como Usuario Quiero verificar la identidad del conductor Para garantizar mi seguridad durante el viaje.</br></br><b>US-05 (2 us. points)</b></br>Como Usuario Quiero ver la ruta y los detalles del viaje Para prepararme adecuadamente y saber qué esperar.</br></br><b>US-06 (2 us. points)</b></br>Como Usuario Quiero establecer la ruta y el horario de mi viaje Para planificar y compartir adecuadamente mi viaje.</br></br><b>US-07 (2 us. points)</b></br>CComo Usuario Quiero brindar calificaciones a los conductores designados Para mejorar la experiencia de otros usuarios.</br></br><b>US-08 (2 us. points)</b></br>Como Usuario Quiero poder filtrar los viajes disponibles Para encontrar opciones que se ajusten a mis preferencias.</br></br><b>US-09 (2 us. points)</b></br>Como Usuario Quiero poder ver mi historial de reservas de viaje Para tener un registro de mis viajes anteriores y cancelaciones. |
+| Metas a cumplir (Sprint 1) |<b>Meta principal</b> <li>Desarrollar una landing page sobre el startup OpenUniRider, la cual genere una buena primera impresión a los usuarios.</br><b>Metas específicas</b><li> Implementar usabilidad, diseño responsive yuna interfaz agradable e intuitiva</li><li>Implementar un navbar funcional</li><li> Mostrar una sección para visualizar los planes de servicio ,para visualizar los precios y beneficios que me brindan<li> Mostrar una sección que presente a la startup OpenUniRider</li> <li> Mostrar una sección de funcionalidades de OpenUniRider.</li> <li>Mostrar una sección de aliados (Universidades aliadas).</li><li> Mostrar una sección de contacto con OpenUniRider.</li> |
+| Sprint 1 Velocity                | 30 points|
+| Sum of Story Points              | 30 points|
+
+
 #### [**5.2.1.2. Sprint Backlog 1.**](#sprint-backlog-1)
 
 #### [**5.2.1.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
