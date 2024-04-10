@@ -247,7 +247,7 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
   </tr>
   <tr>
     <td>Gustavo Pardo</td>
-    <td><img src="" alt="Imagen 5" width="100" height="100"></td>
+    <td><img src="images/Gustavo09.jpg" width="100" height="100"></td>
   </tr>
 </table>
 
