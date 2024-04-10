@@ -1324,15 +1324,17 @@ Esta plataforma, que complementa la funcionalidad de Git, permite mantener repos
 | -------------------------------- | ----------------------------------------------------------- |
 | Sprint Planning Background       |
 | Date                             | 09/04/2024|
-| Time                             | 22:00|
+| Time                             | 22:00 horas (GMT-5)|
 | Location                         | Reunión realizada mediante Discord|
 | Prepared By                      | Mayta Lopez, Harold Jaime	|
 | PAttendees (to planning meeting) | <li>Mayta Lopez, Harold Jaime</li>	 <li>Agama Espinoza, Eric Fabrizio </li> <li>Cortez Flores, Ely Rivaldo  </li> <li>Pardo Zapata, Gustavo Adolfo </li> <li>Anampa Lavado, Luis Angel </li>|
+|Sprint n -1 Review|
+|Resumen|Se creará la organización de UniRider en Github y el repositorio de la organización. |
+|Sprint n -1 Retrospective|
+|Resumen|Se implemento para el landing se ha realizado mediante html css y js.|
 | **Sprint Goal & User Stories**   |
-| US abarcados (Sprint 1) |<b>US-01 (2 us. points)</b></br>Como Usuario Quiero poder crear mi usuario Para acceder al servicio de carpooling.</br></br><b>US-02 (3 us. points)</b></br>Como Usuario Quiero buscar viajes disponibles Para poder planificar mis desplazamientos.</br></br><b>US-03</b> (3 us. points)</br>	Como Usuario Quiero poder reservar un asiento en el viaje disponible Para garantizar mi lugar.</br></br><b>US-04 (1 us. points)</b></br>Como Usuario Quiero poder comunicarme con el conductor de mi viaje Para coordinar detalles y obtener información adicional.</br></br><b>US-05 (1 us. points)</b></br>Como Usuario Quiero poder cancelar una reserva de viaje Para los casos de que surjan imprevistos.</br></br><b>US-06 (2 us. points)<b></br>Como Usuario Quiero poder calificar y dejar comentarios sobre la experiencia de viaje con el conductor Para ayudar a otros usuarios en su elección.</br></br><b>US-01 (2 us. points)<b></br>Como Usuario Quiero visualizar los planes de servicio Para visualizar los precios y beneficios que me brindan.</br></br><b>US-02 (2 us. points)</b></br>Como Usuario Quiero seleccionar un plan de servicio Para adquirir los beneficios ofrecidos.</br></br><b>US-03 (2 us. points)</b></br>Como Usuario Quiero realizar el pago del plan seleccionado Para activar los beneficios ofrecidos.</br></br><b>US-04 (2 us. points)</b></br>Como Usuario Quiero verificar la identidad del conductor Para garantizar mi seguridad durante el viaje.</br></br><b>US-05 (2 us. points)</b></br>Como Usuario Quiero ver la ruta y los detalles del viaje Para prepararme adecuadamente y saber qué esperar.</br></br><b>US-06 (2 us. points)</b></br>Como Usuario Quiero establecer la ruta y el horario de mi viaje Para planificar y compartir adecuadamente mi viaje.</br></br><b>US-07 (2 us. points)</b></br>CComo Usuario Quiero brindar calificaciones a los conductores designados Para mejorar la experiencia de otros usuarios.</br></br><b>US-08 (2 us. points)</b></br>Como Usuario Quiero poder filtrar los viajes disponibles Para encontrar opciones que se ajusten a mis preferencias.</br></br><b>US-09 (2 us. points)</b></br>Como Usuario Quiero poder ver mi historial de reservas de viaje Para tener un registro de mis viajes anteriores y cancelaciones. |
-| Metas a cumplir (Sprint 1) |<b>Meta principal</b> <li>Desarrollar una landing page sobre el startup OpenUniRider, la cual genere una buena primera impresión a los usuarios.</br><b>Metas específicas</b><li> Implementar usabilidad, diseño responsive yuna interfaz agradable e intuitiva</li><li>Implementar un navbar funcional</li><li> Mostrar una sección para visualizar los planes de servicio ,para visualizar los precios y beneficios que me brindan<li> Mostrar una sección que presente a la startup OpenUniRider</li> <li> Mostrar una sección de funcionalidades de OpenUniRider.</li> <li>Mostrar una sección de aliados (Universidades aliadas).</li><li> Mostrar una sección de contacto con OpenUniRider.</li> |
-| Sprint 1 Velocity                | 30 points|
-| Sum of Story Points              | 30 points|
+| Sprint 1 Velocity                |  points|
+| Sum of Story Points              |  points|
 
 
 
@@ -1353,19 +1355,29 @@ Esta plataforma, que complementa la funcionalidad de Git, permite mantener repos
 
 | Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
 | ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
-| landing-page | feature/navbar-footer-styles (then develop) |    | feature: navbar, footer y styles | -                   | 03/04/2024         |
-| landing-page | feature/hero-application                    |    | feature: hero y application      | -                   | 03/04/2024         |
-| landing-page | feature/services                            |    | feature: services                | -                   | 04/04/2024         |
-| landing-page | feature/about                               |    | feature: about                   | -                   | 03/04/2024         |
-| landing-page | feature/Contacto                         |    | feature: Contacto             | -                   | 03/04/2024         |
+| landing-page ||| feature: | -| 03/04/2024         |
+| landing-page ||| feature:        | -| 03/04/2024         |
+| landing-page ||| feature:                 | -| 04/04/2024         |
+| landing-page ||| feature:                    | -| 03/04/2024         |
+| landing-page ||| feature:              | -| 03/04/2024         |
 
 
 
 #### [**5.2.1.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
 
-Para esta entrega, no se implementó el conjunto de apartados relacionados con Web Services, ya que el desarrollo se hizo en base al Landing Page.
+Para la entrega del Sprint 1 se intentó alcanzar el desarrollo completo, implementación y despliegue del Landing Page. Es porello que la sección de "Testing" se centro en la implementación de los archivos feature que contiene nuestro landing page. Dichos features se basan en los User Stories especificados en el sprint backlog y detallando cada uno de los escenarios queplaneamos desarrollar.
+
+| Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| landing-page | |    |  | -                   | 10/04/2024         |
 
 #### [**5.2.1.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
+
+En el sprint 1 se alcanzo un desarrollo parcial en la implementación del despliegue del landing page. La cual muestra diferentessecciones donde el usuario puede encontrar información relevante acerca del producto y del start up. A continuación semuestran algunas evidencias:
+
+- Sección planesEn la sección planes, el usuario puede visualizar e interactuar con los diferentes planes que ofrecemos.
+  
+- Sección contactoEn la sección contacto el usuario puede introducir su información para que la empresa se ponga en contacto con ellos, oen su defecto, ingresar a los medio de comunicación de la empresa
 
 #### [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
 
@@ -1373,7 +1385,7 @@ Este primer Sprint solo trata la implementación del landing page, por lo que no
 
 #### [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#software-deployment-evidence-for-sprint-review)
 
-Para realizar el despliegue automático de nuestra Landing Page, utilizamos la herramienta Github Pages, el cual permite generar páginas web desde un repositorio público dentro del cual se aloja el código con el que se implementa la página. El link de nuestra Landing Page es el siguiente: 
+Para la entrega del Sprint número 1, se desplego el landing page parcialmente completa. 
 
 https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
 
