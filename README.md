@@ -1288,16 +1288,46 @@ La rama **feature** es la rama de características de nuestro proyecto, que cont
 | Sum of Story Points              | 30 points|
 
 
+
 #### [**5.2.1.2. Sprint Backlog 1.**](#sprint-backlog-1)
+| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
+| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
+| GW01 | Apartado del Header    | G01 | Header responsivos (Desarrollado en HTML y CSS).| Desarrollo e implementación de los estilos que corresponden al encabezado (Header). Debe ser responsive.      | 3|   | Done|
+| GW02 | Apartado del Footer    | G02 | Footer responsivos (Desarrollado en HTML y CSS).| Desarrollo e implementación de los estilos que corresponden al pie de página (Footer). Debe ser responsive.   | 2|  | Done|
+| GW03 | Apartado Hero          | G03 | (Desarrollado en HTML y CSS)| Desarrollo e implementación de los estilos que corresponden a la sección Hero. Debe ser responsive.           | 3|    | Done|
+| GW04 | Barra de navegación    | G04 | (Desarrollado en HTML y CSS)| Desarrollo e implementación de los estilos que corresponden a la barra de navegación. Debe ser responsive.    | 2|   | Done|
+| GW05 | Testimonials           | G05 | Sección "Testimonios"(Desarrollado en HTML y CSS)| Desarrollo e implementación de los estilos que corresponden a la sección Testimonios. Debe ser responsive.    | 3|    | Done|
+| GW06 | Sección Sobre Nosotros | G06 | Información del equipo (Desarrollado en HTML y CSS)| Desarrollo e implementación de los estilos que corresponden a la información del equipo. Debe ser responsive. | 3| | Done|
+| GW07 | Función de botones     | G07 | Funcionalidad de los Botones(Desarrollado en HTML y CSS) | Desarrollo e implementación de los estilos que corresponden a los botones de la página. Debe ser responsive.  | 3| | Done|
+| GW08 | Interfaz Responsive    | G08 | Desarrollo responsive de la página| Desarrollo e implementación de un estilo responsive en toda la página.| 2|   | Done|
 
 #### [**5.2.1.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
 
+| Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| landing-page ||||||
+| landing-page ||||||
+| landing-page ||||||
+| landing-page ||||||
+| landing-page ||||||
+
+
 #### [**5.2.1.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
+
+Para esta entrega, no se implementó el conjunto de apartados relacionados con Web Services, ya que el desarrollo se hizo en base al Landing Page.
 
 #### [**5.2.1.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
 
 #### [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
 
+Este primer Sprint solo trata la implementación del landing page, por lo que no se empleó ningún servicio adicional.
+
 #### [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#software-deployment-evidence-for-sprint-review)
 
+Para realizar el despliegue automático de nuestra Landing Page, utilizamos la herramienta Github Pages, el cual permite generar páginas web desde un repositorio público dentro del cual se aloja el código con el que se implementa la página. El link de nuestra Landing Page es el siguiente: 
+
+https://github.com/rivacortez/landingPage-UniRider/tree/landingpage.final
+
 #### [**5.2.1.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
+
+Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de la herramienta Visual Studio Code, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios en Visual Code y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github.
