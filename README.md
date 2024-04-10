@@ -242,8 +242,8 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
     <td><img src="" alt="Imagen 3" width="100" height="100"></td>
   </tr>
   <tr>
-    <td>Harold Mayta</td>
-    <td><img src="" alt="Imagen 4" width="100" height="100"></td>
+    <td>Mi nombre es **Harold Mayta**. Tengo 20 años y estoy estudiando a carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante. En cuanto a cualidades para la realización del trabajo consideroque soy bueno identificando problemáticas y buscando soluciones.</td>
+    <td><img src="" alt="images/Harold.jpg" width="100" height="100"></td>
   </tr>
   <tr>
     <td>Gustavo Pardo</td>
