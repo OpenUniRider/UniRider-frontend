@@ -1343,20 +1343,22 @@ Esta plataforma, que complementa la funcionalidad de Git, permite mantener repos
 | GW02 | Apartado del Footer    | G02 | Footer responsivos (Desarrollado en HTML y CSS).| Desarrollo e implementación de los estilos que corresponden al pie de página (Footer). Debe ser responsive.   | 2|  | Done|
 | GW03 | Apartado Hero          | G03 | (Desarrollado en HTML y CSS)| Desarrollo e implementación de los estilos que corresponden a la sección Hero. Debe ser responsive.           | 3|    | Done|
 | GW04 | Barra de navegación    | G04 | (Desarrollado en HTML y CSS)| Desarrollo e implementación de los estilos que corresponden a la barra de navegación. Debe ser responsive.    | 2|   | Done|
-| GW05 | Testimonials           | G05 | Sección "Testimonios"(Desarrollado en HTML y CSS)| Desarrollo e implementación de los estilos que corresponden a la sección Testimonios. Debe ser responsive.    | 3|    | Done|
+| GW05 | Contacto           | G05 | Sección "Contacto"(Desarrollado en HTML y CSS)| Desarrollo e implementación de los estilos que corresponden a la sección Testimonios. Debe ser responsive.    | 3|    | Done|
 | GW06 | Sección Sobre Nosotros | G06 | Información del equipo (Desarrollado en HTML y CSS)| Desarrollo e implementación de los estilos que corresponden a la información del equipo. Debe ser responsive. | 3| | Done|
 | GW07 | Función de botones     | G07 | Funcionalidad de los Botones(Desarrollado en HTML y CSS) | Desarrollo e implementación de los estilos que corresponden a los botones de la página. Debe ser responsive.  | 3| | Done|
 | GW08 | Interfaz Responsive    | G08 | Desarrollo responsive de la página| Desarrollo e implementación de un estilo responsive en toda la página.| 2|   | Done|
 
 #### [**5.2.1.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
 
+
 | Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
 | ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
-| landing-page ||||||
-| landing-page ||||||
-| landing-page ||||||
-| landing-page ||||||
-| landing-page ||||||
+| landing-page | feature/navbar-footer-styles (then develop) |    | feature: navbar, footer y styles | -                   | 03/04/2024         |
+| landing-page | feature/hero-application                    |    | feature: hero y application      | -                   | 03/04/2024         |
+| landing-page | feature/services                            |    | feature: services                | -                   | 04/04/2024         |
+| landing-page | feature/about                               |    | feature: about                   | -                   | 03/04/2024         |
+| landing-page | feature/Contacto                         |    | feature: Contacto             | -                   | 03/04/2024         |
+
 
 
 #### [**5.2.1.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
